@@ -4,9 +4,10 @@ docs_dir: src
 site_dir: docs
 
 nav:
-    - Willkommen: index.md
+    - Startseite: index.md
     - Über mich: about.md
     - Ressourcen: resources.md
+    - Blog-Migration: migration.md
 
 theme:
     name: 'material'
@@ -19,6 +20,7 @@ theme:
     icon:
       logo: material/home
       repo: fontawesome/brands/github
+      language: de
 
 repo_name: 'simondueckert/blog'
 repo_url: 'https://github.com/simondueckert/blog'
@@ -35,6 +37,17 @@ extra:
     generator: false
 
 plugins:
+  - search
   - blog:
-      enabled: true
       blog_dir: .
+  - rss:
+      match_path: posts/.*
+      date_from_meta:
+        as_creation: date
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      toc_depth: 0

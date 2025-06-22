@@ -5,5 +5,5 @@ categories:
   - weblog
 ---
 
-# Hallo Welt!
+# Hallo MkDocs Welt!
 Mein [privates Blog](https://blog.dueckert.eu/) zieht jetzt hierher um.

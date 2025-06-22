@@ -1,0 +1,12 @@
+# Blog-Migration
+- ✅ Github-Repository anlegen
+- ✅ TOC-Anzeige in rechter Seitenleiste deaktivieren
+- [MkDocs-Grundeinstellungen](https://squidfunk.github.io/mkdocs-material/setup/) machen
+- [RSS-Plugin](https://github.com/guts/mkdocs-rss-plugin) für Feed konfigurieren und testen
+- Inhalte von [blog.dueckert.eu](https://blog.dueckert.eu) migrieren
+- Entscheidung Integration [Tweetbook](https://simondueckert.github.io/tweetbook/de) treffen
+- Entscheidung Github-Kommentare treffen ([giscus](https://giscus.app/de))
+- Projekte unter [Ressourcen](resources.md) aus Obsidian und Nextcloud ergänzen
+- Bloggen von iPad und iPhone testen (Working Copy + iA Writer)
+- Entscheidung weitere Plugins treffen (Admonition, Mermaid etc.)
+    - ✅ Admonition
