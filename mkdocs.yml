@@ -1,0 +1,40 @@
+site_name: Leben, Lernen und Arbeiten im 21. Jahrhundert
+site_url: https://simondueckert.github.io/blog
+docs_dir: src
+site_dir: docs
+
+nav:
+    - Willkommen: index.md
+    - Über mich: about.md
+    - Ressourcen: resources.md
+
+theme:
+    name: 'material'
+    features:
+        - navigation.indexes
+
+    palette:
+      primary: teal
+    language: de
+    icon:
+      logo: material/home
+      repo: fontawesome/brands/github
+
+repo_name: 'simondueckert/blog'
+repo_url: 'https://github.com/simondueckert/blog'
+
+extra:
+    homepage: https://blog.dueckert.eu
+    social:
+        - icon: fontawesome/brands/mastodon
+          link: 'https://chaos.social/@sdueckert'
+        - icon: fontawesome/brands/linkedin
+          link: 'https://www.linkedin.com/in/simondueckert/'
+        - icon: fontawesome/brands/github
+          link: 'https://github.com/simondueckert'
+    generator: false
+
+plugins:
+  - blog:
+      enabled: true
+      blog_dir: .
