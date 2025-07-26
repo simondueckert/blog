@@ -9,7 +9,7 @@ tags:
 coverImage: "IMG_0208.jpeg"
 ---
 
-![](./images/cccjev22.jpeg)
+![](../images/cccjev22.jpeg)
 
 Auch dieses Jahr gibt es leider wieder keinen [Chaos Communication Congress](https://de.wikipedia.org/wiki/Chaos_Communication_Congress). Anders als in den letzten beiden Jahren, gibt es auch keinen zentral organisierten Remote-Congress (rC3), es gab einen Aufruf, **im Zeitraum 27.-30.12.2022** [dezentrale Jahresendveranstaltungen](https://events.ccc.de/2022/11/28/dezentral-2022/) zu organisieren. Dem Aufruf sind zum Glück auch viele Wesen nachgekommen ([Übersicht](https://events.ccc.de/2022/11/28/dezentral-2022/#dezentral-2022-events)).
 
