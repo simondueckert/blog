@@ -8,7 +8,6 @@ nav:
     - Hallo Welt: index.md
     - Über mich: about.md
     - Projekte: projects.md
-    - Ressourcen: resources.md
     - Blog-Migration: migration.md
 
 theme:

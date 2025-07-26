@@ -12,7 +12,7 @@ categories:
   - "wissensmanagement"
 ---
 
-Motiviert durch die Lernreise [Personal Knowledge Excellence 2025](https://cogneon.de/pke24) und das Blog [Interdependend Thoughts](https://www.zylstra.org/) von Ton werde ich meinem persönlichen Blog hier mal wieder etwas mehr Aufmerksamkeit schenken. Ich schreibe hier aus meiner persönlichen Perspektive, teils zu privaten, teils zu beruflichen (Meta-)Themen. Die Anzahl der Zugriffe sind für mich nicht wichtig, ich verstehe das Blog mehr wie ein Journal, in das reinschauen kann, wer mag. Für alles andere verwende ich [Obsidian](https://obsidian.md).
+Motiviert durch die Lernreise [Personal Knowledge Excellence 2024](https://cogneon.de/pke25) und das Blog [Interdependend Thoughts](https://www.zylstra.org/) von Ton werde ich meinem persönlichen Blog hier mal wieder etwas mehr Aufmerksamkeit schenken. Ich schreibe hier aus meiner persönlichen Perspektive, teils zu privaten, teils zu beruflichen (Meta-)Themen. Die Anzahl der Zugriffe sind für mich nicht wichtig, ich verstehe das Blog mehr wie ein Journal, in das reinschauen kann, wer mag. Für alles andere verwende ich [Obsidian](https://obsidian.md).
 
 <!-- more -->
 
