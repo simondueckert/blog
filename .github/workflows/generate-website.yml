@@ -13,7 +13,6 @@ jobs:
       - run: rm -rf ./docs/*
 
       # Create Web Version de (mkdocs)
-      # de
       - uses: actions/setup-python@v4
         with:
           python-version: 3.x
