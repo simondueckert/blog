@@ -3,7 +3,6 @@ title: "Uovo Etrusco (Etruskisches Ei)"
 date: 2021-08-25
 categories: 
   - "rezept"
-  - "2021"
   - "ei"
   - "etruskisch"
   - "italien"

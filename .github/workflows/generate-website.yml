@@ -1,0 +1,33 @@
+name: Website Generator (mkdocs)
+
+on: push
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-latest
+    steps:
+      # Repository auschecken, damit Workflow es nutzen kann
+      - uses: actions/checkout@v3
+      
+      # Delete Old Version
+      - run: rm -rf ./docs/*
+
+      # Create Web Version de (mkdocs)
+      # de
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+      - uses: actions/cache@v3
+        with:
+          key: mkdocs-material-${{ env.cache_id }}
+          path: .cache
+          restore-keys: |
+            mkdocs-material-
+      - run: pip install mkdocs-material
+      - run: mkdocs build -f ./mkdocs.yml
+
+      # Geänderte Datein zurück ins Repository committen
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Erzeugt von automatischer lernOS Produktionskette
