@@ -37,6 +37,8 @@ extra:
     giscus: true
     generator: false
 
+copyright: Simon Dückert, Creative Commons Attribution 4.0 International (CC BY)
+
 plugins:
   - search
   - blog:
