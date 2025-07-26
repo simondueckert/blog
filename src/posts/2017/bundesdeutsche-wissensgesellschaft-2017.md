@@ -10,7 +10,7 @@ Das kommende Jahr wird interessant, denn wir können als deutsche Gesellschaft b
 
 <!-- more -->
 
-**5\. Januar 2017**
+## 5. Januar 2017
 
 Martin Haase hat auf dem 33. Chaos Communication Congress in Hamburg über Populisten und deren sprachliche Verlockungen gesprochen. Zu Beginn des Jahres sollte sich diesen Vortrag mal ansehen, um die Sinne für populistische Methoden zu schärfen und diese auch enttarnen zu können.
 

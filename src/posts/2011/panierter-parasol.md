@@ -8,7 +8,7 @@ categories:
   - "rezept"
 ---
 
-![](./images/parasol.jpg)
+![](../images/parasol.jpg)
 
 Auf meiner Kamera habe ich aus dem Herbst noch einige Fotos zu einem meiner Lieblingsrezepte gefunden: panierte [Parasol-Pilze](http://de.wikipedia.org/wiki/Parasol). Das Rezept ist denkbar einfach, das schwierige ist, die Parasol zu finden :)
 

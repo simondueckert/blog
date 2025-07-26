@@ -8,7 +8,7 @@ categories:
   - "twitter"
 ---
 
-![](./images/kimjongmusk-2.jpeg)
+![](../images/kimjongmusk-2.jpeg)
 
 Da **Elon Musk** sich nach der Übernahme von **Twitter** wie ein **verrückter Diktator** aufspielt, habe ich mein Konto dort eingefroren und bin [nach Mastodon umgezogen](https://chaos.social/@sdueckert). Um möglichst vielen Menschen [Mastodon](https://de.wikipedia.org/wiki/Mastodon_\(Software\)) zu erklären, habe ich [diese kleine Webpräsentation](https://simondueckert.github.io/presentations/mastodon-intro/index.html) erstellt, die ihr gerne in Euren Kontexten verwenden könnt.
 
@@ -36,4 +36,4 @@ Außerdem habe ich mir mein Twitter-Archiv heruntergeladen. Twitter stellt das a
 
 So sieht das Ergebnis dann aus:
 
-![Screenshot der Website Tweetbook von Simon Dückert](images/Bildschirm­foto-2022-12-17-um-12.26.09-1024x620.png)
+![Screenshot der Website Tweetbook von Simon Dückert](../images/tweetbook.png)

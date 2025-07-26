@@ -2,6 +2,7 @@ site_name: Leben, Lernen und Arbeiten im 21. Jahrhundert
 site_url: https://simondueckert.github.io/blog
 docs_dir: src
 site_dir: docs
+edit_uri: ''
 
 nav:
     - Hallo Welt: index.md

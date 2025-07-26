@@ -7,7 +7,7 @@ categories:
   - "pwm"
 ---
 
-![](./images/vw-life20.jpg)
+![](../images/vw-life20.jpg)
 
 Auf dem Audi-Gelände bin ich am Freitag über ein Auto mit einer interessanten Beschriftung gestolpert: "Life 2.0", für mich eine Metapher für ein Leben, dass nach den eigenen Wünschen geführt und gestaltet ist und zusätzlich die Interessen aller anderen Menschen heute und in Zukunft berücksichtigt. Und nachdem wir uns am Übergang zur Wissensgesellschaft befinden, gehört dazu auch ein systematischer Ansatz des persönlichen Wissensmanagements.
 

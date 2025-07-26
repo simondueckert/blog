@@ -12,7 +12,7 @@ categories:
   - "wordpress"
 ---
 
-![](./images/screenshot-nextcloud.png)
+![](../images/screenshot-nextcloud.png)
 
 Heute habe ich einen Tweet mit der Idee geschrieben, dass Privatpersonen und Familien doch einen eigenen Server haben sollten, um sich von Diensten wie GMX, Web.de, Gmail, Dropbox & Co. unabhängig zu machen. Ich erlebe öfter, dass es da Berührungsängste gibt, weil viele denken, ein eigener Server ist nur was für Nerds. Klar, es ist vielleicht am Anfang ein bisschen mehr Aufwand, als sich einfach ein (vermeintlich) kostenfreies Konto bei einem (oft amerikanischen) Anbieter zu klicken.
 
@@ -42,12 +42,12 @@ Zum Abschluss noch ein paar **Screenshots**, damit ihr euch ein Bild der Dienste
 
 Screenshot der **Wordpress-Instanz** (diese Website), gerade umgestellt auf Wordpress 6 und das Twenty Twenty Two Blog-Theme (das braucht noch etwas Arbeit):
 
-![](images/Bildschirmfoto-2022-09-16-um-07.56.32-1024x538.png)
+![](../images/screenshot-wordpress.png)
 
 Screenshot des **Webmailers & Groupware von Hetzner** auf Basis von [Horde](https://www.horde.org/). Den benutze ich eigentlich nie, weil ich immer per IMAP auf die Mailbox zugreife (entweder über die Mail App auf iOS oder Mail-Anwendungen auf Windows bzw. Mac).
 
-![](images/Bildschirmfoto-2022-09-16-um-08.09.45-1024x450.png)
+![](../images/screenshot-hetzner-horde.png)
 
 Startseite der **Nextcloud-Instanz**. Zusätzlich zum Standard installierte Addons: **Calender** (für den Sync mit Kalender Apps auf iOS und Mac über [CalDAV](https://de.wikipedia.org/wiki/CalDAV)), **Bookmarks** (Sync von Browser-Bookmarks, habe ich früher mit delicious gemacht, iOS App [nextBookmark](https://github.com/kitzler-walli/nextbookmark) und [Floccus](https://floccus.org/) Addon in Chrome), **Contacts** (Sync von Adressbüchern in Kontakte auf iOS und Mac), **Deck** (einfaches Kanban Board), **Forms** (Formulare für kleine Umfragen und Terminabstimmungen), **Theming** (um Logo und Farben der Oberfläche und der App anzupassen), **2-Factor-TOTP-Provider** (um Logins mit 2FA abzusichern, Authy als iOS App).
 
-![](images/Bildschirmfoto-2022-09-16-um-07.58.47-1024x541.png)
+![](../images/screenshot-hetzner-nextcloud.png)

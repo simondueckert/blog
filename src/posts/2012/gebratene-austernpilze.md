@@ -8,7 +8,7 @@ categories:
   - "rezept"
 ---
 
-![](./images/austernpilze.jpg)
+![](../images/austernpilze.jpg)
 
 Unser Lieblingsrezept für Austernpilze ist das gleiche, wie für Parasol: panieren und braten! Aber ab und zu braucht man auch etwas Abwechslung.
 

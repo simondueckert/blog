@@ -5,6 +5,7 @@ categories:
     - "esn"
     - "web20"
     - "enterprise20"
+    - todo
 ---
 
 Prognosen sind immer schwierig, insbesondere wenn sie die Zukunft betreffen. Beim Einsatz sozialer Netzwerke in Organisationen -auch [Enterprise Social Networks](https://en.wikipedia.org/wiki/Enterprise_social_networking) (ESN) genannt- zeichnen sich einige Trends ab, die ich in diesem Blog kurz besprechen möchte.
@@ -26,7 +27,7 @@ Für die [Lektion Soziale Netzwerke unseres Web 2.0 Führerscheins](https://www.
 - Suche (Search)
 - Integrierte Groupware zur Gruppenbildung (Groups)
 
-\[youtube https://www.youtube.com/watch?v=AwVFiqyMCPo\]
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AwVFiqyMCPo?si=aKlb1WUVB1ZPpEjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Da es zum damaligen Zeitpunkt keine Software mit derartigem Funktionsumfang in Unternehmen gab, wurden Produkte wie beispielsweise [Jive](https://www.jivesoftware.com) oder [Connections](https://de.wikipedia.org/wiki/IBM_Connections) von IBM (mittlerweile HCL) angeschafft und eingeführt. Die Systeme füllten eine vorhandene Lücke und wurden zumindest von Teilen der Belegschaft willkommen geheißen. Gleichzeitig zeigten sich recht schnell auch einige Nachteile:
 

@@ -22,6 +22,7 @@
 - Github Action einrichten, der die Webversion bei Checkin erzeugt
 - Entscheidung Integration [Tweetbook](https://simondueckert.github.io/tweetbook/de) treffen
 - Seiten im Blog überarbeiten (Über mich, Projekte, Ressourcen, ...)
+- Alle Beiträge mit Tag "todo" bearbeiten
 - Testen, testen, testen
 - URL umschalten (CNAME?)
 - Wordpress-Blog deaktivieren

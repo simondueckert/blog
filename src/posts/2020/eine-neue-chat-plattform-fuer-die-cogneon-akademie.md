@@ -17,9 +17,7 @@ In 2020 sind wir dann von IRC auf [Discord](https://de.wikipedia.org/wiki/Discor
 
 Beim [lernOS All Stars Camp 2020](https://cogneon.de/loscamp20/) haben wir [Telegram](https://de.wikipedia.org/wiki/Telegram) als übergreifenden Chat verwendet (als Veranstaltungsplattform haben wir ein Dokuwiki verwendet). Für eine Veranstaltung funktioniert das auch sehr gut. Über einen Gruppen-Beitrittslink kann man alle Teilnehmenden bequem einladen, ohne explizites User Management betreiben zu müssen. Für ein einzelnes Event hat das auch sehr gut funktioniert. In einer Community gibt es aber immer auch Teilprojekte/-themen für die eine einzelne Chat-Gruppe zu "eng" ist. Es braucht die Möglichkeit, mehrere Chat-Kanäle anzulegen und zu verwalten, da sonst weitere Telegram-Gruppen und damit Intransparenz und Silos entstehen.
 
-Idee für 2021 war also, ein **Multi-Channel-Chat-Tool** auszuprobieren. Dazu habe ich auf Twitter eine kleine Umfrage durchgeführt, bei der 116 Personen abgestimmt haben:
-
-https://twitter.com/SimonDueckert/status/1336057665940840448?s=20
+Idee für 2021 war also, ein **Multi-Channel-Chat-Tool** auszuprobieren. Dazu habe ich auf Twitter eine kleine Umfrage durchgeführt, bei der 116 Personen abgestimmt haben.
 
 Zur Auswahl standen Telegram, Slack, Discord und Rocket.Chat als Chat-Tools. Slack hat dabei die Abstimmung mit einigem Abstand gewonnen:
 

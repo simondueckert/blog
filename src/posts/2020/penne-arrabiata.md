@@ -8,6 +8,8 @@ categories:
   - "scharf"
 ---
 
+![](../images/penne-arrabiata.png)
+
 Penne all’arrabbiata oder all’arabbiata (zu deutsch „Nudeln auf scharfe Art“) ist ein traditionelles Pastagericht aus Latium und insbesondere aus Rom. Der Name stammt vom scharfen Geschmack im Vergleich zu anderen italienischen Pastasaucen (Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Penne_all%E2%80%99arrabbiata)).
 
 <!-- more -->

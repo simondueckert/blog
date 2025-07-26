@@ -14,6 +14,5 @@ World Wide Web Erfinder Tim Berners-Lee hat ein neues Projekt: #solid. Hinter So
 
 Weblinks:
 
-- https://solid.inrupt.com
-- https://solid.inrupt.com/docs/getting-started
-- https://www.w3.org/2005/Incubator/webid/spec/identity
+- [https://solid.inrupt.com](https://solid.inrupt.com)
+- [https://www.w3.org/2005/Incubator/webid/spec/identity](https://www.w3.org/2005/Incubator/webid/spec/identity)

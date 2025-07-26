@@ -9,7 +9,7 @@ categories:
   - "tomaten"
 ---
 
-![](./images/tomatooo.jpg)
+![](../images/tomatooo.jpg)
 
 Als begeistertes [Slowfood-Mitglied](http://slowfood.de/) richtet sich unser Speiseplan natürlich nach dem Saisonkalender. Glücklicherweise wohnen wir direkt im Nürnberger Knoblauchsland und somit direkt an der Quelle für CO2-neutral hergestelltes Gemüse. Besonders freue ich mich jedes Jahr über die Tomaten-Zeit, denn dann gibt es leckeres Tomaten-Öl-Pickle (Rezept stammt ursprünglich aus einem uralten Brigitte-Viva-Heft):
 

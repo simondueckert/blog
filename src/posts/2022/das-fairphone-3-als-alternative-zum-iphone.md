@@ -12,7 +12,7 @@ categories:
   - "smartphone"
 ---
 
-![](./images/fairphone3.jpeg)
+![](../images/fairphone3.jpeg)
 
 Da wir bei [Cogneon](https://cogneon.de) schon sehr lange von Windows Phones auf iPhones umgestiegen sind, habe ich kaum Erfahrungen mit dem mobilen Betriebssystem [Android](https://de.wikipedia.org/wiki/Android_\(Betriebssystem\)). Im Herbst 2021 habe ich das Experiment gemacht, beim Arbeiten auf dem Laptop wochenweise zwischen Windows (10), Mac und Linux ([Kubuntu](https://de.wikipedia.org/wiki/Kubuntu)) zu wechseln. Im Herbst 2022 will ich mal ausprobieren, am Wochenende ein Android-Telefon zu verwenden.
 

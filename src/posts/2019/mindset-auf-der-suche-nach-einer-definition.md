@@ -14,8 +14,6 @@ Letzte Woche habe ich eine [Umfrage auf Twitter](https://twitter.com/simonduecke
 
 <!-- more -->
 
-https://twitter.com/simondueckert/status/1189406413904154624?s=21
-
 An der Umfrage haben für mich überraschend viele Leute teilgenommen (Stand: 9.11., 09:42 Uhr):
 
 - **Anzahl Abstimmungen:** 832
