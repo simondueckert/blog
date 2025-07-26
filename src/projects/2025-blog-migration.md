@@ -19,6 +19,7 @@
     - ✅ Giscus (Kommentar-System)
     - Mermaid
 - Projekte unter [Ressourcen](resources.md) aus Obsidian und Nextcloud ergänzen
+- Github Action einrichten, der die Webversion bei Checkin erzeugt
 - Entscheidung Integration [Tweetbook](https://simondueckert.github.io/tweetbook/de) treffen
 - Seiten im Blog überarbeiten (Über mich, Projekte, Ressourcen, ...)
 - Testen, testen, testen

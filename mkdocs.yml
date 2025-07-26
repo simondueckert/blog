@@ -4,7 +4,7 @@ docs_dir: src
 site_dir: docs
 
 nav:
-    - Startseite: index.md
+    - Hallo Welt: index.md
     - Über mich: about.md
     - Projekte: projects.md
     - Ressourcen: resources.md
@@ -28,10 +28,10 @@ repo_name: 'simondueckert/blog'
 repo_url: 'https://github.com/simondueckert/blog'
 
 extra:
-    homepage: https://blog.dueckert.eu
+    homepage: https://simondueckert.github.io/blog
     social:
         - icon: fontawesome/brands/mastodon
-          link: 'https://chaos.social/@sdueckert'
+          link: 'https://colearn.social/@simondueckert'
         - icon: fontawesome/brands/linkedin
           link: 'https://www.linkedin.com/in/simondueckert/'
         - icon: fontawesome/brands/github
@@ -60,3 +60,6 @@ markdown_extensions:
           format: !!python/name:mermaid2.fence_mermaid_custom
   - toc:
       toc_depth: 0
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg

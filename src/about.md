@@ -6,8 +6,8 @@ Ich bin Simon Dückert, geboren am 20.04.1974 in Schweinfurt. Ich bin dort ins [
 
 ## Kontakt
 
-- Email: simon@dueckert.eu ([PGP Public Key](https://cloud.dueckert.eu/s/P2fJ3662dinrCo4))
-- Mastodon: [@sdueckert@chaos.social](https://chaos.social/@sdueckert)
-- Matrix: [simondueckert:matrix.org](https://matrix.to/#/@simondueckert:matrix.org)
-- Threema-ID: P7MCJVJ2
-- Signal: [signal.me](https://signal.me/#eu/MGoIFTY_etOrPll34WPdGdHDrp7saBAaG2sjutl4_r30G71oRoRDnaXjnXYl0s_9)
+- :material-email: Email: simon@dueckert.eu ([PGP Public Key](https://cloud.dueckert.eu/s/P2fJ3662dinrCo4))
+- :material-mastodon: Mastodon: [@sdueckert@chaos.social](https://chaos.social/@sdueckert)
+- :material-matrix: Matrix: [simondueckert:matrix.org](https://matrix.to/#/@simondueckert:matrix.org)
+- :material-chat: Signal: [signal.me](https://signal.me/#eu/MGoIFTY_etOrPll34WPdGdHDrp7saBAaG2sjutl4_r30G71oRoRDnaXjnXYl0s_9)
+- :material-chat: Threema-ID: P7MCJVJ2
