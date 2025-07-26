@@ -35,6 +35,7 @@ extra:
           link: 'https://www.linkedin.com/in/simondueckert/'
         - icon: fontawesome/brands/github
           link: 'https://github.com/simondueckert'
+    giscus: true
     generator: false
 
 plugins:
