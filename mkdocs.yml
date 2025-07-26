@@ -12,6 +12,7 @@ nav:
 
 theme:
     name: 'material'
+    custom_dir: src/overrides
     features:
         - navigation.indexes
 
@@ -46,10 +47,16 @@ plugins:
       match_path: posts/.*
       date_from_meta:
         as_creation: date
+  - mermaid2
 
 markdown_extensions:
   - admonition
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+        # make exceptions to highlighting of code:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:mermaid2.fence_mermaid_custom
   - toc:
       toc_depth: 0

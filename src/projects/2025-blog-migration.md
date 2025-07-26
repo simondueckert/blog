@@ -9,15 +9,17 @@
 
 - ✅ Github-Repository anlegen
 - ✅ TOC-Anzeige in rechter Seitenleiste deaktivieren
-- [MkDocs-Grundeinstellungen](https://squidfunk.github.io/mkdocs-material/setup/) machen
+- ✅ [MkDocs-Grundeinstellungen](https://squidfunk.github.io/mkdocs-material/setup/) machen
 - ✅ [RSS-Plugin](https://github.com/guts/mkdocs-rss-plugin) für Feed konfigurieren und testen
 - ✅ Inhalte von [blog.dueckert.eu](https://blog.dueckert.eu) migrieren
-- Entscheidung Integration [Tweetbook](https://simondueckert.github.io/tweetbook/de) treffen
-- Entscheidung Github-Kommentare treffen ([giscus](https://giscus.app/de)) -> ja
-- Projekte unter [Ressourcen](resources.md) aus Obsidian und Nextcloud ergänzen
+- ✅ Entscheidung Github-Kommentare treffen ([giscus](https://giscus.app/de)) -> ja
 - ✅ Bloggen von iPad und iPhone testen (Working Copy + iA Writer)
 - Entscheidung weitere Plugins treffen (Admonition, Mermaid etc.)
     - ✅ Admonition
+    - ✅ Giscus (Kommentar-System)
+    - Mermaid
+- Projekte unter [Ressourcen](resources.md) aus Obsidian und Nextcloud ergänzen
+- Entscheidung Integration [Tweetbook](https://simondueckert.github.io/tweetbook/de) treffen
 - Seiten im Blog überarbeiten (Über mich, Projekte, Ressourcen, ...)
 - Testen, testen, testen
 - URL umschalten (CNAME?)

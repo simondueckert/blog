@@ -3754,36 +3754,113 @@
     </div>
     <article class="md-content__inner md-typeset">
       
-        
-  
+        <!--
+  Copyright (c) 2016-2021 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Edit button -->
+
+<a
+  href="https://github.com/simondueckert/blog/edit/master/docs/posts/a-year-without-pants.md"
+  title="edit.link.title"
+  class="md-content__button md-icon"
+>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75z"/></svg>
+</a>
 
 
-
-  
-  
-
+<!--
+  Hack: check whether the content contains a h1 headline. If it
+  doesn't, the page title (or respectively site name) is used
+  as the main headline.
+-->
 
   <h1>A Year Without Pants</h1>
 
+
+<!-- Markdown content -->
 <p>In diesem Block war es eine ganze Weile recht still. Im Urlaub habe ich das Buch <a href="https://scottberkun.com/yearwithoutpants/">A year without pants</a> über die verteilte Arbeit bei Automattic (Macher von Wordpress) gelesen. Dort wird im Intranet #wordpress mit dem <a href="https://p2theme.com">Theme P2</a> verwendet. Bei der Recherche habe ich entdeckt, dass dieses Theme auch auf Wordpress.com verwendet werden kann. Das will ich hier im Blog mal ausprobieren.</p>
 <p>P.S.: das Buch ist sehr empfehlenswert. Wer lieber hören mag, dem empfehle ich den Podcast <a href="https://podcasts.apple.com/de/podcast/distributed-with-matt-mullenweg/id1463243282">Distributed</a> mit Automattic-Gründer Matt Mullenweg.</p>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wlLe_jQdTkA?si=Vt3d2XcsGZ2E9wNS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<!-- Source file information -->
 
 
 
+<!-- Get setting from mkdocs.yml, but allow page-level overrides -->
 
 
 
-  
-  
+  <h2 id="__comments">Kommentare</h2>
+  <!-- Insert generated snippet here -->
+  <script src="https://giscus.app/client.js"
+          data-repo="simondueckert/blog"
+          data-repo-id="R_kgDOO_xRjw"
+          data-category="General"
+          data-category-id="DIC_kwDOO_xRj84Ctbtq"
+          data-mapping="pathname"
+          data-strict="0"
+          data-reactions-enabled="1"
+          data-emit-metadata="0"
+          data-input-position="bottom"
+          data-theme="preferred_color_scheme"
+          data-lang="de"
+          crossorigin="anonymous"
+          async>
+  </script>
+  <!-- Synchronize Giscus theme with palette -->
+  <script>
+    var giscus = document.querySelector("script[src*=giscus]")
 
+    // Set palette on initial load
+    var palette = __md_get("__palette")
+    if (palette && typeof palette.color === "object") {
+      var theme = palette.color.scheme === "slate"
+        ? "transparent_dark"
+        : "light"
 
+      // Instruct Giscus to set theme
+      giscus.setAttribute("data-theme", theme) 
+    }
 
+    // Register event handlers after documented loaded
+    document.addEventListener("DOMContentLoaded", function() {
+      var ref = document.querySelector("[data-md-component=palette]")
+      ref.addEventListener("change", function() {
+        var palette = __md_get("__palette")
+        if (palette && typeof palette.color === "object") {
+          var theme = palette.color.scheme === "slate"
+            ? "transparent_dark"
+            : "light"
 
-  
-
-
+          // Instruct Giscus to change theme
+          var frame = document.querySelector(".giscus-frame")
+          frame.contentWindow.postMessage(
+            { giscus: { setConfig: { theme } } },
+            "https://giscus.app"
+          )
+        }
+      })
+    })
+  </script>
 
       
     </article>

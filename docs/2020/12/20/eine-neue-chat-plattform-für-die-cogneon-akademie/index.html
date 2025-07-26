@@ -3765,17 +3765,49 @@
     </div>
     <article class="md-content__inner md-typeset">
       
-        
-  
+        <!--
+  Copyright (c) 2016-2021 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Edit button -->
+
+<a
+  href="https://github.com/simondueckert/blog/edit/master/docs/posts/eine-neue-chat-plattform-fuer-die-cogneon-akademie.md"
+  title="edit.link.title"
+  class="md-content__button md-icon"
+>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75z"/></svg>
+</a>
 
 
-
-  
-  
-
+<!--
+  Hack: check whether the content contains a h1 headline. If it
+  doesn't, the page title (or respectively site name) is used
+  as the main headline.
+-->
 
   <h1>Eine neue Chat-Plattform für die Cogneon Akademie</h1>
 
+
+<!-- Markdown content -->
 <p>Neben unserer Community-Plattform <a href="https://community.cogneon.de">CONNECT</a> auf Basis von Discourse braucht es für den schnellen Austausch zwischendurch eine geeignete Chat-Plattform. Hier haben wir in den letzten beiden Jahren einige Experimente gemacht und daraus gelernt. Im Jahr 2019 haben wir <a href="https://de.wikipedia.org/wiki/Internet_Relay_Chat">IRC</a> auf dem Server <a href="https://freenode.net/">Freenode</a> getestet. IRC wird im Hackerumfeld viel genutzt. Gut an IRC finde ich den offenen Umgang mit Chat-Kanälen (jeder kann neue Kanäle anlegen, Kanäle sind i.d.R. offen). Eine Funktion, die ich von keiner anderen Chat-Plattform kenne ist, dass angezeigt wird, wenn jemand den Kanal betritt und wenn er wieder geht. So bekommt man ein gutes Gefühl, wer gerade "da" ist. Allerdings hat IRC nie so richtig den Weg in den Web 2.0 und Mobile Welt geschafft, die Nutzung fühlt sich an vielen Ecken und Enden etwas altbacken an.</p>
 <!-- more -->
 
@@ -3794,21 +3826,66 @@
 <p>Für <strong>2021</strong> werden wir also auf <strong>Slack</strong> als Chat-Plattform setzen. Dafür reaktivieren wir das Netzwerk, das wir auch schon in unseren Benchlearning-Projekten verwendet haben. Einen ersten Test machen wir bei unserem virtuellen Wintermarkt am 21.12.2020, danach laden wir alle Nutzer*innen von Discord und CONNECT in das Netzwerk ein.</p>
 <p>P.S.: mir wäre eigentlich <a href="https://rocket.chat/">Rocket.Chat</a> als Open-Source-Alternative zu Slack lieber gewesen. Im Chaos Computer Club setzen wir das gerade für die Planung der <a href="https://rc3.world">Remote Chaos Experience rC3</a> ein und an Funktionen fehlt mir da gegenüber Slack nichts. Zwei Probleme: 1.) Das nutzen in unserer Community vermutlich sehr wenige und wir hätten das gleiche Problem, wie bei Discord 2.) Wir hätten eine weitere Plattform, die wir selber hosten müssen und das wollte ich nicht. Die Bezahl-Variante bei Rocket ist leider 3,-/User/Monat, was bei eier Community mit 1.500+ Leuten nicht finanzierbar ist.</p>
 
+<!-- Source file information -->
 
 
 
+<!-- Get setting from mkdocs.yml, but allow page-level overrides -->
 
 
 
-  
-  
+  <h2 id="__comments">Kommentare</h2>
+  <!-- Insert generated snippet here -->
+  <script src="https://giscus.app/client.js"
+          data-repo="simondueckert/blog"
+          data-repo-id="R_kgDOO_xRjw"
+          data-category="General"
+          data-category-id="DIC_kwDOO_xRj84Ctbtq"
+          data-mapping="pathname"
+          data-strict="0"
+          data-reactions-enabled="1"
+          data-emit-metadata="0"
+          data-input-position="bottom"
+          data-theme="preferred_color_scheme"
+          data-lang="de"
+          crossorigin="anonymous"
+          async>
+  </script>
+  <!-- Synchronize Giscus theme with palette -->
+  <script>
+    var giscus = document.querySelector("script[src*=giscus]")
 
+    // Set palette on initial load
+    var palette = __md_get("__palette")
+    if (palette && typeof palette.color === "object") {
+      var theme = palette.color.scheme === "slate"
+        ? "transparent_dark"
+        : "light"
 
+      // Instruct Giscus to set theme
+      giscus.setAttribute("data-theme", theme) 
+    }
 
+    // Register event handlers after documented loaded
+    document.addEventListener("DOMContentLoaded", function() {
+      var ref = document.querySelector("[data-md-component=palette]")
+      ref.addEventListener("change", function() {
+        var palette = __md_get("__palette")
+        if (palette && typeof palette.color === "object") {
+          var theme = palette.color.scheme === "slate"
+            ? "transparent_dark"
+            : "light"
 
-  
-
-
+          // Instruct Giscus to change theme
+          var frame = document.querySelector(".giscus-frame")
+          frame.contentWindow.postMessage(
+            { giscus: { setConfig: { theme } } },
+            "https://giscus.app"
+          )
+        }
+      })
+    })
+  </script>
 
       
     </article>
