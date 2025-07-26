@@ -15,7 +15,6 @@ theme:
     custom_dir: src/overrides
     features:
         - navigation.indexes
-
     palette:
       primary: teal
     language: de

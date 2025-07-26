@@ -9,4 +9,3 @@ Willkommen im **privaten Weblog** von [Simon Dückert](about.md) (Bild: [Wikiped
 
 ---
 
-## Blog
