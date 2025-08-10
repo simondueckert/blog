@@ -16,6 +16,8 @@ Wenn man wie ich beruflich mit [generativer KI](https://de.wikipedia.org/wiki/Ge
 
 Doch da gibt es eine ganz gute Alternative, die ich auch sehr viel nutze. Bei Firmen wie Microsoft, OpenAI und Anthropic kann man sich für eine **monatliche Gebühr** ein Abo für deren Webdienste kaufen. Alternativ bieten sie aber auch den Zugang zu ihren [Sprachmodellen](https://de.wikipedia.org/wiki/Large_Language_Model) über eine so genannte [API](https://de.wikipedia.org/wiki/Programmierschnittstelle) (Application Programming Interface).
 
+<!-- more -->
+
 Diesen API-Zugang kann man sich direkt bei Anbieter buchen, es gibt aber auch Dienste, die den Zugang zu ganz verschiedenen Sprachmodellen anbieten. Einer davon - den ich auch nutze - ist [openrouter.ai](https://openrouter.ai/). Da ist man dann nicht auf ein Sprachmodell festgelegt, Openrouter bietet aktuell [über 400 Modelle](https://openrouter.ai/models) an. **Die Abrechnung erfolgt nach Verbrauch** und nicht pauschal.
 
 Die Einrichung ist eigentlich recht einfach:
