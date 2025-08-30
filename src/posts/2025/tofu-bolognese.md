@@ -5,7 +5,6 @@ categories:
    - tofu
    - bolognese
    - vegetarisch
-draft: true
 ---
 
 ![Spaghetti mit Räuchertofu-Bologneses, KI-generiert mit FLUX.1-schnell](./images/tofu-bolognese.png)
