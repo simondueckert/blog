@@ -1,5 +1,5 @@
 ---
-date: 2025-06-21
+date: 2025-09-21
 categories:
    - urlaub
    - italien
@@ -7,7 +7,6 @@ categories:
    - ebook
    - tolino
    - koreader
-draft: false
 ---
 
 # Urlaub in Varigotti (Ligurien, Italien)
