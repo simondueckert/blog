@@ -34,6 +34,6 @@ Ich bin zwar kein Vegetarier, aber ich versuche trotzdem wo möglich, Fleisch we
 1. Suppengrün für das für [Soffritto](https://de.wikipedia.org/wiki/Soffritto) zerkleinern
 1. Zerkleinertes Suppengrün in einer Pfanne mit Butter und Prise Salz glasig dünsten
 1. Tofu in einer Pfanne mit Olivenöl anbraten (soll Farbe annehmen, aber nicht anbrennen)
-1. Tofu mit Gemüsebrühe ablöschen, Tomaten, Wein ud Soffritto hinzufügen
+1. Tofu mit Gemüsebrühe ablöschen, Tomaten, Wein und Soffritto hinzufügen
 1. Sauche 30 Minuten köcheln lassen und gelegentlich umrühren
 1. Pasta kochen und mit Sauce und Parmesan servieren
