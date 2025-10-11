@@ -10,8 +10,11 @@ categories:
 
 ![Spaghetti mit Räuchertofu-Bologneses, KI-generiert mit FLUX.1-schnell](../images/tofu-bolognese.png)
 
-# Räuchertofu Bolognese
+# Tofu Bolognese
+
 Ich bin zwar kein Vegetarier, aber ich versuche trotzdem wo möglich, Fleisch wegzulassen. Vor einiger Zeit haben wir mal alle möglichen Varianten der vegetarischen Bolognese auszuprobieren. Die mit Räuchertofu hat uns am besten geschmeckt (auch wenn uns [das neue Origninal-Rezept](https://www.falstaff.com/at/rezepte/kochen/original-ragu-alla-bolognese-aus-bologna) noch besser schmeckt).
+
+<!-- more -->
 
 ## Zutaten
 
@@ -30,10 +33,10 @@ Ich bin zwar kein Vegetarier, aber ich versuche trotzdem wo möglich, Fleisch we
 ## Zubereitung
 
 1. Den Tofu in Würfel schneiden und dass Wasser möglichst gut herauspressen; anschließend mit einer Gabel zerkrümeln
-1. Zerkrümelten Tofu in Sojasauce marinieren
-1. Suppengrün für das für [Soffritto](https://de.wikipedia.org/wiki/Soffritto) zerkleinern
-1. Zerkleinertes Suppengrün in einer Pfanne mit Butter und Prise Salz glasig dünsten
-1. Tofu in einer Pfanne mit Olivenöl anbraten (soll Farbe annehmen, aber nicht anbrennen)
-1. Tofu mit Gemüsebrühe ablöschen, Tomaten, Wein und Soffritto hinzufügen
-1. Sauche 30 Minuten köcheln lassen und gelegentlich umrühren
-1. Pasta kochen und mit Sauce und Parmesan servieren
+2. Zerkrümelten Tofu in Sojasauce marinieren
+3. Suppengrün für das für [Soffritto](https://de.wikipedia.org/wiki/Soffritto) zerkleinern
+4. Zerkleinertes Suppengrün in einer Pfanne mit Butter und Prise Salz glasig dünsten
+5. Tofu in einer Pfanne mit Olivenöl anbraten (soll Farbe annehmen, aber nicht anbrennen)
+6. Tofu mit Gemüsebrühe ablöschen, Tomaten, Wein ud Soffritto hinzufügen
+7. Sauche 30 Minuten köcheln lassen und gelegentlich umrühren
+8. Pasta kochen und mit Sauce und Parmesan servieren
