@@ -43,7 +43,7 @@ Buffer --> Linkedin
 Buffer --> Instagram
 ```
 
-Im Gegensatz zur Automatisierungslösung oben kann ich in Buffer für die einzelnen Plattformen noch extra Einstellungen vornehmen (z.B. Inhaltswarnung in Mastodon) und kann zeitgesteuert veröffentlichen. Ein weiterer Vorteil ist, dass ich wir früher bei Twitter auf Mastodon auch mal etwas schreibe (z.B. Kurze Gedanken, geteilte Links, Fragen), das nicht direkt auf anderen Plattformen erscheinen soll. Der Use Case wie im "good old" Video [Twitter in Plain English](https://www.youtube.com/watch?v=ddO9idmax0o) beschrieben wird so möglich, ohne mit Hashtag-Filtern etc. herumbasteln zu müssen.
+Im Gegensatz zur Automatisierungslösung oben kann ich in Buffer für die einzelnen Plattformen noch extra Einstellungen vornehmen (z.B. Inhaltswarnung in Mastodon) und kann zeitgesteuert veröffentlichen. Ein weiterer Vorteil ist, dass ich wie früher bei Twitter auf Mastodon auch mal etwas schreibe (z.B. Kurze Gedanken, geteilte Links, Fragen), das nicht direkt auf anderen Plattformen erscheinen soll. Der Use Case wie im "good old" Video [Twitter in Plain English](https://www.youtube.com/watch?v=ddO9idmax0o) beschrieben wird so möglich, ohne mit Hashtag-Filtern etc. herumbasteln zu müssen.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ddO9idmax0o?si=GcK0wFpIx2tmeIAD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
