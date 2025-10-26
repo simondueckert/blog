@@ -5,7 +5,7 @@ categories:
    - vibecoding
    - arduino
    - chatgpt
-  
+
 ---
 
 # LED Lightning Talk Lampe mit Vibe Coding
