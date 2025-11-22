@@ -16,10 +16,10 @@ Schon im Studium bin ich auf [Bagna Cauda](https://de.wikipedia.org/wiki/Bagna_c
 
 # Zutaten (für 6 Personen)
 
-- 6 Knoblauchknollen
+- 6 Knoblauchzehen
 - 350 ml natives Olivenöl extra
 - Ein Schuss Walnussöl (optional, aber empfehlenswert!)
-- 90 g rote Sardellen (Anchovis)
+- 90 g Sardellen (Anchovis)
 - Ein Stückchen Butter (optional)
 - Rotwein oder Wasser zum Waschen der Sardellen
 - Gemüse zum Dippen (z.B. Karotten, Paprika, Staudensellerie)
