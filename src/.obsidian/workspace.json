@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2025/homeassistant-ki.md",
+                "file": "projects/2025-homeassistant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "homeassistant-ki"
+              "title": "2025-homeassistant"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "eee42e75659dd2a6",
   "lastOpenFiles": [
-    "Unbenannt.md",
     "posts/2025/homeassistant-ki.md",
+    "projects/2025-homeassistant.md",
+    "Unbenannt.md",
     "posts/2025/images/homeassistant-ki.png",
     "posts/0_draft.md",
     "posts/2025/lightning-talk-lampe.md",
