@@ -8,6 +8,7 @@ nav:
     - Hallo Welt: index.md
     - Über mich: about.md
     - Projekte: projects.md
+    - Microblog: microblog.md
 
 theme:
     name: 'material'

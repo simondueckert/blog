@@ -3,6 +3,7 @@ Auf dieser Seite sammle ich öffentlich verfügbare Bilder, Inhalte zu Projekten
 
 ## 2025
 - [Blog Migration](./projects/2025-blog-migration.md) - Umzug meines Weblogs von Wordpress in einen statischen Seitengenerator (Mkdocs)
+- [Sendezentrum auf dem Chaos Communication Congress #39c3](https://sendegate.de/t/sendezentrum-39c3/17999) des Chaos Computer Clubs
 
 ## 2024
 - [Sendezentrum auf dem Chaos Communication Congress #38c3](https://sendegate.de/t/sendezentrum-38c3/17481) des Chaos Computer Clubs
