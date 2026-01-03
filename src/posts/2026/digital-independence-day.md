@@ -7,7 +7,7 @@ categories:
 draft: false
 ---
 
-# 1. Digtial Independence Day am 4. Januar 2026
+# 1. Digital Independence Day am 4. Januar 2026
 
 ![Photorealistic wide-angle landscape at sunrise: a lone hiker standing on a rocky mountain summit, full body seen from behind, arms raised in triumph, wearing a red backpack with a penguin on it and outdoor clothing. Vast layered mountain ranges fading into atmospheric haze, golden light spilling across ridgelines, warm orange–pink sky with soft clouds, sun low near the horizon. Cinematic composition, rule of thirds, crisp foreground rock texture, glowing rim light on the hiker, high detail, natural colors, HDR, 16:9.](./images/digitalindependenceday.png)
 
