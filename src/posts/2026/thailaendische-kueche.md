@@ -4,7 +4,6 @@ categories:
    - essen
    - thailand
    - rezepte
-draft: true
 ---
 
 # Thailändische Küche
