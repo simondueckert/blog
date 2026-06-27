@@ -1,4 +1,4 @@
-# Über mich
+# 🙋Über mich
 
 ![](img/simon-dueckert-illustration.jpg)
 
@@ -8,6 +8,7 @@ Ich bin Simon Dückert, geboren am 20.04.1974 in Schweinfurt. Ich bin dort ins [
 
 - :material-email: Email: simon@dueckert.eu ([PGP Public Key](https://cloud.dueckert.eu/s/P2fJ3662dinrCo4))
 - :material-mastodon: Mastodon: [@sdueckert@chaos.social](https://chaos.social/@sdueckert)
+- :material-instagram: Pixelfed: [pixelfed.de/sdueckert](https://pixelfed.de/sdueckert) ([Portfolio Page](https://portfolio.pixelfed.de/sdueckert))
 - :material-matrix: Matrix: [simondueckert:matrix.org](https://matrix.to/#/@simondueckert:matrix.org)
 - :material-chat: Signal: [signal.me](https://signal.me/#eu/MGoIFTY_etOrPll34WPdGdHDrp7saBAaG2sjutl4_r30G71oRoRDnaXjnXYl0s_9)
 - :material-chat: Threema-ID: P7MCJVJ2

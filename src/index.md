@@ -1,4 +1,4 @@
-# Hallo, Welt!
+# 👋 Hallo, Welt
 
 ![Dazzle Design zur Tarnung,Bild: Wikipedia](./img/dazzle-camouflage.jpg)
 

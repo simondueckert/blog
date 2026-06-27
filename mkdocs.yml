@@ -5,10 +5,10 @@ site_dir: docs
 edit_uri: ''
 
 nav:
-    - Hallo Welt: index.md
-    - Über mich: about.md
-    - Projekte: projects.md
-    - Microblog: microblog.md
+    - 👋 Hallo Welt: index.md
+    - 🙋‍♂️ Über mich: about.md
+    - 🛠️ Projekte: projects.md
+    - 💭 Microblog: microblog.md
 
 theme:
     name: 'material'
