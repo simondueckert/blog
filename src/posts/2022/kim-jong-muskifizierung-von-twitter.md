@@ -1,7 +1,7 @@
 ---
 title: "Kim Jong-Muskifizierung von Twitter"
 date: 2022-12-17
-categories: 
+tags: 
   - "fediverse"
   - "mastodon"
   - "musk"

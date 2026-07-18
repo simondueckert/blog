@@ -1,6 +1,8 @@
 ---
 date: 2025-10-13
 categories:
+   - Digitalität
+tags:
    - lightningtalk
    - vibecoding
    - arduino

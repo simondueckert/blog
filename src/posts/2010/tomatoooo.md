@@ -2,7 +2,8 @@
 title: "Tomatoooo"
 date: 2010-08-29
 categories: 
-  - "rezept"
+  - Rezepte
+tags:
   - "knoblauchsland"
   - "pickle"
   - "slowfood"

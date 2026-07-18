@@ -1,7 +1,8 @@
 ---
 date: 2025-12-22
 categories:
-   - rezepte
+   - Rezepte
+tags:
    - airfryer
    - blogparade
 draft: false

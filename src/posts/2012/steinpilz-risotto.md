@@ -2,9 +2,10 @@
 title: "Steinpilz-Risotto"
 date: 2012-10-19
 categories: 
+  - Rezepte
+tags:
   - "herbst"
   - "pilz"
-  - "rezept"
 ---
 
 Heute haben wir in der Akademie besprochen, dass wie nächsten Herbst einen unserer Lernfreitage verwenden wollen, um Pilze suchen zu gehen. Hier schonmal eines meiner Lieblingsrezepte für Steinpilze.

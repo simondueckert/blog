@@ -1,6 +1,9 @@
 # Projekte
 Auf dieser Seite sammle ich öffentlich verfügbare Bilder, Inhalte zu Projekten etc. von mir – Wenn nicht anders beschrieben, stehen die Inhalte unter der [Creative Commons Attribution 4.0 International Lizenz](https://creativecommons.org/licenses/by/4.0/) und können somit gerne weiterverwendet werden.
 
+## 2026
+- [DIY LED Lampe](https://wiki.cogneon.de/DIY_LED-Lampe) - WS2812-basierte Lampe, die einen Timer z.B. für Lightning Talks darstellen kann
+
 ## 2025
 - [Blog Migration](./projects/2025-blog-migration.md) - Umzug meines Weblogs von Wordpress in einen statischen Seitengenerator (Mkdocs)
 - [Sendezentrum auf dem Chaos Communication Congress #39c3](https://sendegate.de/t/sendezentrum-39c3/17999) des Chaos Computer Clubs

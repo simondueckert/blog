@@ -2,6 +2,8 @@
 title: "Die Zukunft von ESNs - wie sehen die nächsten 3-5 Jahre aus?"
 date: 2019-10-06
 categories:
+    - Digitalität
+tags:
     - "esn"
     - "web20"
     - "enterprise20"

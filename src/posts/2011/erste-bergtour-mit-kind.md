@@ -2,7 +2,8 @@
 title: "Erste Bergtour mit Kind"
 date: 2011-06-05
 categories:
-    - "urlaub"
+    - Reisen
+tags:
     - "berge"
 ---
 

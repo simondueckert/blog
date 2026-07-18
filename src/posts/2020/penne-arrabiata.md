@@ -2,7 +2,8 @@
 title: "Penne Arrabiata"
 date: 2020-12-05
 categories: 
-  - "rezept"
+  - Rezepte
+tags:
   - "pasta"
   - "penne"
   - "scharf"

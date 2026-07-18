@@ -1,8 +1,10 @@
 ---
 title: "Zwiebelsuppe"
 date: 2025-01-01
-categories: 
-  - "rezept"
+categories:
+  - Rezepte
+tags:
+
   - "frankreich"
   - "suppe"
   - "zwiebeln"

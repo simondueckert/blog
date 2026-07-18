@@ -1,6 +1,8 @@
 ---
 date: 2025-11-29
 categories:
+  - Digitalität
+tags:
   - smarthome
   - homeassistant
   - voice

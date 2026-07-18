@@ -2,6 +2,8 @@
 title: "Reiseführer mit der Wikipedia-Buchfunktion"
 date: 2016-02-06
 categories: 
+  - Reisen
+tags:
   - "buchfunktion"
   - "goodreader"
   - "mexiko2016"

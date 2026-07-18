@@ -1,11 +1,14 @@
 ---
 date: 2025-10-26
 categories:
+   - Digitalität
+tags:
    - esp32
    - mikrocontroller
    - arduino
    - vibecoding
    - led
+   - künstliche intelligenz
 ---
 
 # Vibe Coding mit ESP32s

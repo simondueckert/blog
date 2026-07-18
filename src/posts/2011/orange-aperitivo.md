@@ -2,10 +2,11 @@
 title: "Orange Aperitivo"
 date: 2011-08-07
 categories: 
+  - Rezepte
+tags:
   - "aperitivo"
   - "cocktail"
   - "orange"
-  - "rezept"
 ---
 
 Sommerzeit, Zeit für einen Aperitivo. Eine meiner Lieblingsvarianten, natürlich eine orange, ist der Bombay Cooler, eine Eigenkreation des Barkeepers in der [Cocktailbar BMF](http://www.bmf-bar.de/) in Nürnberg. Kumquats gedeihen übrigens sehr gut auf dem Balkon oder der Terasse.

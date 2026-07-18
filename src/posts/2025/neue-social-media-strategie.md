@@ -1,6 +1,8 @@
 ---
 date: 2025-10-11
 categories:
+   - Digitalität
+tags:
    - socialmedia
    - mastodon
    - rss

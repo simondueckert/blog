@@ -1,9 +1,10 @@
 ---
 date: 2026-05-23
 categories:
+   - Rezepte
+tags:
    - essen
    - thailand
-   - rezepte
 ---
 
 # Thailändische Küche

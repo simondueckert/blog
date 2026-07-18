@@ -1,6 +1,8 @@
 ---
 date: 2026-07-05
 categories:
+    - Digitalität
+tags:
    - diday
    - posse
    - indieweb

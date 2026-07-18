@@ -2,7 +2,8 @@
 title: "CCC Jahresendveranstaltung 2022 (#jev22)"
 date: 2022-12-26
 categories: 
-  - "ccc"
+  - CCC
+tags:
   - "jev22"
 ---
 

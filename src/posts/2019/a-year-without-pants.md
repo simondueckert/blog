@@ -2,6 +2,8 @@
 title: "A Year Without Pants"
 date: 2019-09-21
 categories: 
+  - Literatur
+tags:
   - "wordpress"
   - "buch"
   - "podcast"

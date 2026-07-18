@@ -1,7 +1,8 @@
 ---
 date: 2025-09-21
 categories:
-   - urlaub
+   - Reisen
+tags:
    - italien
    - varigotti
    - ebook

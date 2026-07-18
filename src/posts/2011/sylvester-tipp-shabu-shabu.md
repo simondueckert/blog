@@ -2,7 +2,8 @@
 title: "Sylvester-Tipp: Shabu-Shabu"
 date: 2011-12-03
 categories: 
-  - "rezept"
+  - Rezepte
+tags:
   - "japanisch"
   - "sylvester"
   - "fondue"

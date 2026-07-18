@@ -1,7 +1,8 @@
 ---
 date: 2025-08-30
 categories:
-   - rezept
+   - Rezepte
+tags:
    - tofu
    - bolognese
    - vegetarisch

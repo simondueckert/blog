@@ -2,7 +2,7 @@
 title: "Weiterentwicklung des #lernOS Glossars"
 date: 2019-10-15
 categories:
-    - "lernos"
+    - lernOS
 ---
 
 So langsam lichtet sich der begriffliche Dschungel rund um die moderne Arbeits- und Lernwelt. Trotzdem sind noch ziemlich viele Bullshit-Bingo-Phrasen unterwegs. Mit dem [Benchlearning Projekt](https://wiki.cogneon.de/blp) 2012 hatte ich schonmal angefangen eine Enterprise 2.0 Konzeptkarte zu erstellen (siehe [Blog](https://cogneon.de/2012/12/04/cogneon-konzeptkarte-enterprise-2-0/)), das aber leider nicht zu einem Glossar fortgeführt.

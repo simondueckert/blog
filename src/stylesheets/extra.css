@@ -1,0 +1,14 @@
+/* TOC-Seitenleiste (rechts) global ausblenden.
+   Ersetzt das frühere toc_depth: 0, das die Ueberschriften-IDs unterdrueckt
+   und damit die Tag-Liste zerstoert hat. Die IDs bleiben so erhalten,
+   nur die Anzeige der Seitenleiste ist ausgeblendet. */
+.md-sidebar--secondary {
+  display: none;
+}
+
+/* Zotero-Publikationsliste: haengende Einzuege je Eintrag */
+.zotero-publications .csl-entry {
+  margin-bottom: 0.8em;
+  padding-left: 1.6em;
+  text-indent: -1.6em;
+}

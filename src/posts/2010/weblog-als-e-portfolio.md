@@ -2,6 +2,8 @@
 title: "Weblog als E-Portfolio"
 date: 2010-11-14
 categories: 
+  - Digitalität
+tags:
   - "e-portfolio"
   - "selbstgesteuertes-lernen"
   - "weblog"

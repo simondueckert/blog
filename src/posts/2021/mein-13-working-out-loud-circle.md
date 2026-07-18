@@ -2,6 +2,8 @@
 title: "Mein 13. Working Out Loud Circle"
 date: 2021-01-03
 categories: 
+  - Digitalität
+tags:
   - "wol"
 ---
 

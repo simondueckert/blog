@@ -2,8 +2,9 @@
 title: "Mindset - auf der Suche nach einer Definition"
 date: 2019-11-03
 categories: 
+  - lernOS
+tags:
   - "crowdsourcing"
-  - "lernos"
   - "mindset"
   - "twitter"
 ---

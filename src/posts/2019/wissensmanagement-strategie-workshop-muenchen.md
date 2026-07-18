@@ -2,6 +2,8 @@
 title: "Wissensmanagement Strategie Workshop in München"
 date: 2019-09-25
 categories: 
+  - Cogneon
+tags:
   - "festo"
   - "iso30401"
   - "lernos"

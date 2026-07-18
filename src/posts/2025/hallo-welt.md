@@ -1,7 +1,7 @@
 ---
 title: "Hallo MkDocs Welt!"
 date: 2025-06-22
-categories:
+tags:
   - weblog
   - mkdocs
   - lernos

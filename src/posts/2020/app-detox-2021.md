@@ -2,6 +2,8 @@
 title: "App Detox 2021"
 date: 2020-12-23
 categories: 
+  - Digitalität
+tags:
   - "gtd"
   - "detox"
 ---

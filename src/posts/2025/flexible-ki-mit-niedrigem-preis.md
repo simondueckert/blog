@@ -1,6 +1,8 @@
 ---
 date: 2025-08-10
 categories:
+   - Digitalität
+tags:
    - ai
    - openrouter
    - chatbox

@@ -2,10 +2,11 @@
 title: "Gebratene Austernpilze"
 date: 2012-11-03
 categories: 
+  - Rezepte
+tags:
   - "austernpilz"
   - "parasol"
   - "pilz"
-  - "rezept"
 ---
 
 Unser Lieblingsrezept für Austernpilze ist das gleiche, wie für Parasol: panieren und braten! Aber ab und zu braucht man auch etwas Abwechslung.

@@ -1,7 +1,9 @@
 ---
 title: "Meine Themen 2025"
 date: 2025-01-05
-categories: 
+categories:
+  - Ziele
+tags:
   - "achtsamkeit"
   - "akademie"
   - "genai"

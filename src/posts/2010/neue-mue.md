@@ -1,7 +1,9 @@
 ---
 title: "Neue Muße"
 date: 2010-08-29
-categories: 
+categories:
+  - Persönliches
+tags:
   - "bfz"
   - "musse"
   - "nuernberg"

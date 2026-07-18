@@ -1,7 +1,8 @@
 ---
 date: 2025-11-22
 categories:
-   - rezept
+   - Rezepte
+tags:
    - piemont
    - italien
 ---

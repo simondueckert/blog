@@ -1,7 +1,7 @@
 ---
 title: "Bundesdeutsche Wissensgesellschaft 2017?"
 date: 2017-01-05
-categories:
+tags:
     - wissensgesellschaft
     - populismus
 ---

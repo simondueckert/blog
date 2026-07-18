@@ -2,6 +2,8 @@
 title: "Privat: Schöne 4-Zimmer-Wohnung in Nürnberg gesucht"
 date: 2019-11-10
 categories:
+    - Persönliches
+tags:
     - wohnung
 ---
 

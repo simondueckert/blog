@@ -2,6 +2,8 @@
 title: "Erster Eintrag in meinem privaten Blog"
 date: 2010-07-28
 categories:
+    - Digitalität
+tags:
     - "weblog"
     - "wordpress"
 ---

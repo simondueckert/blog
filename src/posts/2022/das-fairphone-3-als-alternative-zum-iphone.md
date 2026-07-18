@@ -2,6 +2,8 @@
 title: "Das Fairphone 3+ als Alternative zum iPhone"
 date: 2022-09-26
 categories: 
+  - Digitalität
+tags:
   - "android"
   - "connectivity"
   - "eos"

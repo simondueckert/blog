@@ -2,10 +2,11 @@
 title: "Panierter Parasol"
 date: 2011-01-25
 categories: 
+  - Rezepte
+tags:
   - "herbst"
   - "parasol"
   - "pilz"
-  - "rezept"
 ---
 
 Auf meiner Kamera habe ich aus dem Herbst noch einige Fotos zu einem meiner Lieblingsrezepte gefunden: panierte [Parasol-Pilze](http://de.wikipedia.org/wiki/Parasol). Das Rezept ist denkbar einfach, das schwierige ist, die Parasol zu finden :)

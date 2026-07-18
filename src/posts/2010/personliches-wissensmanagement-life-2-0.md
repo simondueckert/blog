@@ -2,6 +2,8 @@
 title: "Persönliches Wissensmanagement - Life 2.0"
 date: 2010-09-18
 categories: 
+  - Persönliches Wissensmanagement
+tags:
   - "knowledgecamp"
   - "life20"
   - "pwm"

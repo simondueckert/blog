@@ -2,8 +2,9 @@
 title: "Working Out Loud? LernOS? Ein Faktencheck"
 date: 2019-10-27
 categories: 
+  - lernOS
+tags:
   - "ckj25"
-  - "lernos"
   - "wol"
   - "wolplus"
 ---

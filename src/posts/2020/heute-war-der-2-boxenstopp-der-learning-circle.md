@@ -1,7 +1,7 @@
 ---
 title: "Learning Circle Experience 2022"
 date: 2020-11-30
-categories: 
+tags: 
   - "gtd"
   - "lce20"
   - "lernos"

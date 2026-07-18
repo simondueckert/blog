@@ -2,6 +2,8 @@
 title: "Angekommen in Puerto Aventuras"
 date: 2016-02-09
 categories: 
+  - Reisen
+tags:
   - "flug"
   - "lernen"
   - "mexiko"

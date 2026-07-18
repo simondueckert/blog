@@ -2,6 +2,8 @@
 title: "AIZ/GIZ Herbstakademie 2019"
 date: 2019-10-03
 categories:
+    - Cogneon
+tags:
     - wissensmanagement
     - todo
 ---

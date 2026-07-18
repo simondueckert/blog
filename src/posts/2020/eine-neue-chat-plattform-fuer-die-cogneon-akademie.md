@@ -2,7 +2,8 @@
 title: "Eine neue Chat-Plattform für die Cogneon Akademie"
 date: 2020-12-20
 categories: 
-  - "cogneon"
+  - Cogneon
+tags:
   - "infrastruktur"
   - discord
   - slack

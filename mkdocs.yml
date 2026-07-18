@@ -8,7 +8,9 @@ nav:
     - 👋 Hallo Welt: index.md
     - 🙋‍♂️ Über mich: about.md
     - 🛠️ Projekte: projects.md
+    - 📚 Publikationen: publications.md
     - 💭 Microblog: microblog.md
+    - 🏷️ Tags: tags.md
 
 theme:
     name: 'material'
@@ -24,6 +26,9 @@ theme:
       logo: material/home
       repo: fontawesome/brands/github
       language: de
+
+extra_css:
+  - stylesheets/extra.css
 
 repo_name: 'simondueckert/blog'
 repo_url: 'https://github.com/simondueckert/blog'
@@ -42,10 +47,26 @@ extra:
 
 copyright: Simon Dückert, Creative Commons Attribution 4.0 International (CC BY)
 
+hooks:
+  - hooks/zotero_publications.py
+
 plugins:
   - search
+  - tags
   - blog:
       blog_dir: .
+      # Kontrollierter Kategoriensatz. Aktivieren (auskommentieren entfernen),
+      # sobald alle Beitraege ueberarbeitet sind. Bei aktivierter Liste bricht
+      # der Build ab, wenn ein Beitrag eine hier nicht aufgefuehrte Kategorie
+      # verwendet. Platzhalter unten durch die echten Kategorien ersetzen.
+      # categories_allowed:
+      #   - Platzhalter Kategorie 1
+      #   - Platzhalter Kategorie 2
+      #   - Platzhalter Kategorie 3
+      #   - Platzhalter Kategorie 4
+      #   - Platzhalter Kategorie 5
+      #   - Platzhalter Kategorie 6
+      #   - Platzhalter Kategorie 7
   - rss:
       match_path: posts/.*
       date_from_meta:
@@ -53,6 +74,7 @@ plugins:
   - mermaid2
 
 markdown_extensions:
+  - attr_list
   - admonition
   - pymdownx.details
   - pymdownx.superfences:
@@ -61,8 +83,7 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:mermaid2.fence_mermaid_custom
-  - toc:
-      toc_depth: 0
+  - toc
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg

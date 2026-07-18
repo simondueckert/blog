@@ -2,6 +2,8 @@
 title: "Windows Live Writer"
 date: 2010-10-20
 categories:
+    - Digitalität
+tags:
     - "toolset"
     - "weblog"
 ---

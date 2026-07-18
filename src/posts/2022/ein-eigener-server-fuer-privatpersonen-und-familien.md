@@ -2,6 +2,8 @@
 title: "Ein eigener Server für Privatpersonen und Familien"
 date: 2022-09-16
 categories: 
+  - Digitalität
+tags:
   - "email"
   - "familie"
   - "hetzner"
