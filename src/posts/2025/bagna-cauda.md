@@ -8,11 +8,11 @@ categories:
 
 # Bagna Cauda aus dem Piemont
 
-![A small brown bowl with bagna cauda sauce on a plate with lengthy pieces of carrots and yellow paprika and celery, pot on a table in a cosy italian restaurant, plate in focus background blurred, KI-generiert mit FLUX.1-schnell](./images/bagna-cauda.png)
-
 Schon im Studium bin ich auf [Bagna Cauda](https://de.wikipedia.org/wiki/Bagna_cauda) gestoßen, ein ganz einfaches Rezept aus dem [Piemont](https://de.wikipedia.org/wiki/Piemont). Wenn es draußen kalt wird, gibt es nichts Besseres als eine dampfende Bagna Cauda! Stellt euch vor: eine warme Sauce aus Knoblauch und Sardellen, in die ihr frisches Gemüse eintaucht. Es ist wie Fondue, nur italienisch und mit viel mehr Geschmack! Der Name bedeutet übrigens "warmes Bad", was ich total passend finde.
 
 <!-- more -->
+
+![A small brown bowl with bagna cauda sauce on a plate with lengthy pieces of carrots and yellow paprika and celery, pot on a table in a cosy italian restaurant, plate in focus background blurred, KI-generiert mit FLUX.1-schnell](./images/bagna-cauda.png)
 
 # Zutaten (für 6 Personen)
 

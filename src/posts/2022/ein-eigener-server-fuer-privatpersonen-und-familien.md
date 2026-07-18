@@ -12,11 +12,11 @@ categories:
   - "wordpress"
 ---
 
-![](../images/screenshot-nextcloud.png)
-
 Heute habe ich einen Tweet mit der Idee geschrieben, dass Privatpersonen und Familien doch einen eigenen Server haben sollten, um sich von Diensten wie GMX, Web.de, Gmail, Dropbox & Co. unabhängig zu machen. Ich erlebe öfter, dass es da Berührungsängste gibt, weil viele denken, ein eigener Server ist nur was für Nerds. Klar, es ist vielleicht am Anfang ein bisschen mehr Aufwand, als sich einfach ein (vermeintlich) kostenfreies Konto bei einem (oft amerikanischen) Anbieter zu klicken.
 
 <!-- more -->
+
+![](../images/screenshot-nextcloud.png)
 
 Ich glaube aber, dass sich der kleine Mehraufwand lohnt, weil man wichtige 21st-Century-Skills erlernt und das Internet und seinen aufbau versteht. Außerdem ist der Aufwand mittlerweile tatsächlich auch sehr übersichtlich. Da mich einige nach einer kleinen Beschreibung gefragt haben, hier mal einige Stichpunkte, wie man an das Thema herangehen kann.
 

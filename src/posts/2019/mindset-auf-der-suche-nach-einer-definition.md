@@ -8,11 +8,11 @@ categories:
   - "twitter"
 ---
 
-![](./images/mindset-definition.jpg)
-
 Letzte Woche habe ich eine [Umfrage auf Twitter](https://twitter.com/simondueckert/status/1189406413904154624?s=21) gestartet mit der Frage **"Wie würdet ihr Mindset auf Deutsch übersetzen?"** Und den Auswahloptionen "Haltung", "Mentalität", "Weltbild" und "Anders". Wer "Anders" wählt sollte seinen/ihren Vorschlag in den Kommentaren beschreiben.
 
 <!-- more -->
+
+![](./images/mindset-definition.jpg)
 
 An der Umfrage haben für mich überraschend viele Leute teilgenommen (Stand: 9.11., 09:42 Uhr):
 

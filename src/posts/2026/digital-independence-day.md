@@ -9,11 +9,11 @@ draft: false
 
 # 1. Digital Independence Day am 4. Januar 2026
 
-![Photorealistic wide-angle landscape at sunrise: a lone hiker standing on a rocky mountain summit, full body seen from behind, arms raised in triumph, wearing a red backpack with a penguin on it and outdoor clothing. Vast layered mountain ranges fading into atmospheric haze, golden light spilling across ridgelines, warm orange–pink sky with soft clouds, sun low near the horizon. Cinematic composition, rule of thirds, crisp foreground rock texture, glowing rim light on the hiker, high detail, natural colors, HDR, 16:9.](./images/digitalindependenceday.png)
-
 In seinem **Vortrag auf dem 39. Chaos Communication Congress** "[Die Känguru-Rebellion: Digital Independence Day](https://media.ccc.de/v/39c3-die-kanguru-rebellion-digital-independence-day) hat [Mark-Uwe KLing](https://marcuwekling.de/de/) gemeinsam mit einem Breiten Bündnis die [Initiative Digital Independence Day](https://di.day/) (Hashtags [#DigitalIndependenceDay, #DIDit](https://cogneon.github.io/mastowall/?hashtags=digitalindependenceday%2Cdidit&server=https%3A%2F%2Fcolearn.social)) angekündigt. Dabei geht es darum, möglichst viele Personen dazu zu bewegen, die sog. [BigTech-Plattformen](https://de.wikipedia.org/wiki/Big_Tech) zu verlassen und damit digital unabhängig(er) zu werden.
 
 <!-- more -->
+
+![Photorealistic wide-angle landscape at sunrise: a lone hiker standing on a rocky mountain summit, full body seen from behind, arms raised in triumph, wearing a red backpack with a penguin on it and outdoor clothing. Vast layered mountain ranges fading into atmospheric haze, golden light spilling across ridgelines, warm orange–pink sky with soft clouds, sun low near the horizon. Cinematic composition, rule of thirds, crisp foreground rock texture, glowing rim light on the hiker, high detail, natural colors, HDR, 16:9.](./images/digitalindependenceday.png)
 
 <iframe width="1024" height="576" src="https://media.ccc.de/v/39c3-die-kanguru-rebellion-digital-independence-day/oembed" frameborder="0" allowfullscreen></iframe>
 

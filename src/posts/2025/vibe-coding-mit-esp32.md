@@ -10,11 +10,11 @@ categories:
 
 # Vibe Coding mit ESP32s
 
-![](./images/vibe-coding-mit-esp32.png)
-
 Seit meinem letzten [Blog zur LED-Lightning-Talk-Lampe](https://blog.dueckert.eu/2025/10/13/led-lightning-talk-lampe-mit-vibe-coding/) habe ich etwas darüber nachgedacht, welche DIY-Aktion wir nächstes Jahr in der lernOS Convention 2026 (23.-24. Juni) machen könnten. Der Promtathon letztes Jahr, bei dem wir gemeinsam Challenges für KI gepromptet haben, kam sehr gut an. Deswegen soll es wieder etwas ähnlich interaktives geben, das man in Kleingruppen bearbeiten kann.
 
 <!-- more -->
+
+![](./images/vibe-coding-mit-esp32.png)
 
 Thematisch wollen wir etwas mehr in Richtung **Automatisierung wissensintensiver Aufgaben zur Steigerung von Produktivität** gehen. Dafür kann man KI gut gebrauchen, aber es braucht auch andere Skills, wie sie in den letzten Jahren in der Low-Code-/No-Code-Bewegung entwickelt wurden (Programmierung, Skripting, Kommandozeile, zeitgesteuerte Aufgaben etc.).
 

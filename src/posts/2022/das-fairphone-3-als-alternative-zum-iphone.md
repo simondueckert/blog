@@ -12,11 +12,11 @@ categories:
   - "smartphone"
 ---
 
-![](../images/fairphone3.jpeg)
-
 Da wir bei [Cogneon](https://cogneon.de) schon sehr lange von Windows Phones auf iPhones umgestiegen sind, habe ich kaum Erfahrungen mit dem mobilen Betriebssystem [Android](https://de.wikipedia.org/wiki/Android_\(Betriebssystem\)). Im Herbst 2021 habe ich das Experiment gemacht, beim Arbeiten auf dem Laptop wochenweise zwischen Windows (10), Mac und Linux ([Kubuntu](https://de.wikipedia.org/wiki/Kubuntu)) zu wechseln. Im Herbst 2022 will ich mal ausprobieren, am Wochenende ein Android-Telefon zu verwenden.
 
 <!-- more -->
+
+![](../images/fairphone3.jpeg)
 
 Als Gerät dafür habe ich mir ein [Fairphone](https://de.wikipedia.org/wiki/Fairphone) 3+ ausgesucht (€ 349,-), da das auf lange Nutzungsdauern, fairen Einkauf und modularen Aufbau optimiert ist. Als Betriebssystem kam für mich ein reines Android nicht in Frage, da sich dort die Google-Telemetrie nicht ausreichend deaktivieren lässt. Ich habe mich für das "entgoogelte" Betriebssystem [/e/OS](https://e.foundation/de/e-os/) entscheiden, das auf Basis von [LineageOS](https://lineageos.org/) versucht, der Apple Usablity möglichst nahe zu kommen.
 

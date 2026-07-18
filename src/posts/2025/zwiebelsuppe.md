@@ -8,11 +8,11 @@ categories:
   - "zwiebeln"
 ---
 
-![](../images/zwiebelsuppe.jpg)
-
 Vom Raclette über die Feiertage bleibt meistens etwas Raclette-Käse übrig. Daraus kann man sehr gut eine [französische Zwiebelsuppe](https://de.wikipedia.org/wiki/Zwiebelsuppe#Franz%C3%B6sische_Zwiebelsuppe) machen.
 
 <!-- more -->
+
+![](../images/zwiebelsuppe.jpg)
 
 ## Zutaten (2 Portionen)
 

@@ -8,13 +8,13 @@ categories:
    - soffrito
 ---
 
-![Spaghetti mit Räuchertofu-Bologneses, KI-generiert mit FLUX.1-schnell](../images/tofu-bolognese.png)
-
 # Tofu Bolognese
 
 Ich bin zwar kein Vegetarier, aber ich versuche trotzdem wo möglich, Fleisch wegzulassen. Vor einiger Zeit haben wir mal alle möglichen Varianten der vegetarischen Bolognese auszuprobieren. Die mit Räuchertofu hat uns am besten geschmeckt (auch wenn uns [das neue Origninal-Rezept](https://www.falstaff.com/at/rezepte/kochen/original-ragu-alla-bolognese-aus-bologna) noch besser schmeckt).
 
 <!-- more -->
+
+![Spaghetti mit Räuchertofu-Bologneses, KI-generiert mit FLUX.1-schnell](../images/tofu-bolognese.png)
 
 ## Zutaten
 

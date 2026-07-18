@@ -9,13 +9,13 @@ categories:
 
 # Neue Social Media Strategie
 
-![](./images/social-media-tree.jpg)
-
 Ich habe jetzt eine Weile - eigentlich [seit es Twitter nicht mehr gibt](https://simondueckert.github.io/tweetbook/) - mit den verschiedenen  **für mich relevanten Social-Media-Kanälen** herumexperimentiert. Auf **Mastodon** fühle ich mich am meisten "zu Hause". Auf **Linkedin** sind viele Leute aus meinem Netzwerk, aber der Feed ist wegen Werbung, Selbstdarstellung und zunehmend [AI Slop](https://en.wikipedia.org/wiki/AI_slop) von durchwachsener Qualität. Die fachliche Diskussion ist überwiegend nach **Reddit**, **Discord** und **Discourse** abgewandert.
 
 Gerade im B2B-Umfeld sind aber viele Leute auf **Linkedin**, **Youtube** und **Instagram**. Deswegen habe ich damit experimentiert nach dem POSSE-Prinzip einzelne Kanäle miteinander zu koppeln, musste dabei aber viele Kompromisse machen. Letztendlich bin ich bei einer Lösung angelangt, die sich erstmal tragfähig anfühlt.
 
 <!-- more -->
+
+![](./images/social-media-tree.jpg)
 
 ## POSSE - Publish On Own Site, Syndicate Elsewhere
 

@@ -7,11 +7,11 @@ categories:
   - "kuerbis"
 ---
 
-![](../images/kuerbissuppe.jpg)
-
 Herbstzeit ist Kürbiszeit. Zu einem Wissensmanagement-Strategie-Workshop habe ich mal wieder eine Kürbissuppe zubereitet. Nachdem mich eine Teilnehmerin schon letztes Jahr nach dem Rezept gefragt hat, will ich es den Teilnehmern nicht vorenthalten.
 
 <!-- more -->
+
+![](../images/kuerbissuppe.jpg)
 
 **Zutaten:**
 

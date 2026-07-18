@@ -10,11 +10,11 @@ categories:
   - "toskana"
 ---
 
-![](../images/uovo-etrusco.jpeg)
-
 Im Urlaub 2021 in der Toskana im [Haus Il Palazzino](https://www.ilpalazzino.net/) zum Frühstück entdeckt:
 
 <!-- more -->
+
+![](../images/uovo-etrusco.jpeg)
 
 Zutaten für 1 Person:
 

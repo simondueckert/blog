@@ -10,11 +10,11 @@ categories:
 
 # LED Lightning Talk Lampe mit Vibe Coding
 
-![](./images/lightning-talk-lampe.jpg)
-
 Ich hatte schon lange vor, mal eine leicht zu bedienende **LED-Lampe für Lightning Talks** zu bauen. Vor deer Pandemie hatte ich dazu schon 4x56 LED-Streifen in einem Acryl-Rohr verbaut und an einen Mikrocontroller angeschlossen. Jetzt habe ich die Gelegenheit gefunden, die Lampe endlich fertigzustellen.
 
 <!-- more -->
+
+![](./images/lightning-talk-lampe.jpg)
 
 Ich war bisher nicht dazu gekommen, eine anständige **Software für die Lampe** zu bauen, weil wir in und nach der Pandemie bis zur loscon24 virtuelle Countdowns mit OBS verwendet haben. Vor der [loscon25](https://wiki.cogneon.de/loscon25) war auch nicht viel Zeit und ich hatte eine behelfsmäßige Variante mit einer **8x32 LED-Matrix**, einem [ESP32](https://de.wikipedia.org/wiki/ESP32) und [WLED](https://kno.wled.ge) gebaut. Für ein anständiges Gehäuse hat es nicht mehr gereicht und die "Schrottigkeit" des Anblicks hat mich die ganze Zeit geärgert.
 

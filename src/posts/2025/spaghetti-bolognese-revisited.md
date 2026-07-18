@@ -8,11 +8,11 @@ categories:
 
 # Spaghetti Bolognese Revisited
 
-![plate with big portion of hot spaghetti bolognese, on a table in a small italian restaurant, focus on plate, people chatting in the background, warm colors](./images/spaghetti-bolognese-revisited.png)
-
 Im Jahr 2023 hat die [Accademia Italiana Della Cucina](https://www.accademiaitalianadellacucina.it/) nach über 40 Jahren zum ersten Mal das Rezept für **Spaghetti Bolognese** geändert ([PDF](https://www.accademiaitalianadellacucina.it/sites/default/files/Rag%C3%B9%20alla%20bolognese%20-%20ricetta%20aggiornata%2020%20aprile%202023.pdf)). Das authentische [Ragù alla Bolognese](https://de.wikipedia.org/wiki/Rag%C3%B9_alla_bolognese) ist mehr als eine einfache Hackfleischsauce. Die Spezialität aus der [Emilia-Romagna](https://de.wikipedia.org/wiki/Emilia-Romagna) gelingt durch lange Zubereitung und hochwertigen Zutaten. Das Ergebnis ist: eine cremige, dunkel-orangefarbene Sauce, die jeden Bissen zum Erlebnis macht. Das Rezept mache ich gerne, wenn ich Zeit habe, die Zutaten schon Samstag früh auf dem Markt zu kaufen und die Sauce dann den ganzen Nachmittag vor sich hin köcheln kann.
 
 <!-- more -->
+
+![plate with big portion of hot spaghetti bolognese, on a table in a small italian restaurant, focus on plate, people chatting in the background, warm colors](./images/spaghetti-bolognese-revisited.png)
 
 ## Besonderheiten
 

@@ -9,10 +9,12 @@ draft: false
 ---
 
 # Neues Projekt: Smarthome mit KI und Sprache nutzen
-![](./images/homeassistant-ki.png)
 
 Als **Smart-Home-System** für die **Automatisierung** von Lichtern, Musik, Heizung etc. verwende ich zu Hause [Homeassistant](https://www.home-assistant.io/) (früher habe ich [OpenHAB](https://www.openhab.org/) verwendet). Zum Kneten der ganzen Plätzchenteige haben wir uns jetzt endlich auch mal [eine Küchenmaschine](https://amzn.to/4otUzYv) gekauft. Die Anleitung umfasst über 200 Seiten und da liegt es nahe, **mit der Anleitung in der Küche auch "sprechen"** zu können.
 <!-- more -->
+
+![](./images/homeassistant-ki.png)
+
 Ich werde **über die Vorweihnachtszeit mal ein kleines Projekt** starten, um direkt in der Küche mit der Anleitung der Maschine (und natürlich auch allen anderen Anleitungen, Rezeptsammlung, Kochbücher etc.) "reden" zu können.
 
 Dafür habe ich mir **folgenden Ansatz** überlegt:

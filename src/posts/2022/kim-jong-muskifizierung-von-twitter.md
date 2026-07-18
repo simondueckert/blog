@@ -8,11 +8,11 @@ categories:
   - "twitter"
 ---
 
-![](../images/kimjongmusk-2.jpeg)
-
 Da **Elon Musk** sich nach der Übernahme von **Twitter** wie ein **verrückter Diktator** aufspielt, habe ich mein Konto dort eingefroren und bin [nach Mastodon umgezogen](https://chaos.social/@sdueckert). Um möglichst vielen Menschen [Mastodon](https://de.wikipedia.org/wiki/Mastodon_\(Software\)) zu erklären, habe ich [diese kleine Webpräsentation](https://simondueckert.github.io/presentations/mastodon-intro/index.html) erstellt, die ihr gerne in Euren Kontexten verwenden könnt.
 
 <!-- more -->
+
+![](../images/kimjongmusk-2.jpeg)
 
 Außerdem habe ich mir mein Twitter-Archiv heruntergeladen. Twitter stellt das als ZIP-Datei mit gepackten JSON-Dateien zur Verfügung. Ich habe überlegt, wie ich das in Zukunft selber einfach nutzen und gleichzeitig öffentlich bereitstellen kann. Herausgekommen ist [die Website Tweetbook auf Github](https://simondueckert.github.io/tweetbook/) mit einem monatsweisen Archiv und einer Volltextsuche. In diesem Blog erkläre ich kurz, in welchen Schritten Ihr euch auch so eine Website erstellen könnt.
 

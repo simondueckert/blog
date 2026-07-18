@@ -13,9 +13,9 @@ categories:
 
 Dieses Jahr waren wir im Urlaub in [Varigotti](https://en.wikipedia.org/wiki/Varigotti) ([Ligurien](https://de.wikipedia.org/wiki/Ligurien)) in Italien. Wir hatten mit dem [Hotel Arabesque](https://www.hotelarabesque.it) eine gemütliche Unterkunft mit Frühstück **nur zwei Minuten vom Strand** weg gebucht.
 
-![](./images/hotel-arabesque.jpg)
-
 <!-- more -->
+
+![](./images/hotel-arabesque.jpg)
 
 Im **nördlichen Teil Italiens** waren wir noch nicht so oft und so hatten wir uns den Teil westlich von Genua, die [Riviera di Ponent](https://de.wikipedia.org/wiki/Riviera_di_Ponente) ausgesucht. Die Landschaft mit den Bergen, die fast bis zum Meer gehen, ist sehr schön. Auch die **Ligurische Küche** hat uns mit [Pesto alla Genovese](https://de.wikipedia.org/wiki/Pesto), Farinata (Fladen aus Kichererbsenmehl), [Pansoti](https://www.essen-und-trinken.de/rezepte/57714-rzpt-pansotti-con-salsa-di-noci-gefuellte-teigtaschen-mit-walnusssauce) (Teigtaschen mit Walnuss-Füllung) und [Trofie](https://de.wikipedia.org/wiki/Trofie)-Nudeln sehr gut geschmeckt. Einige Flaschen der lokalen Weinsorte [Pigato](https://de.wikipedia.org/wiki/Pigato) haben wir natürlich auch mitgenommen.
 
