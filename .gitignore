@@ -1,2 +1,6 @@
 .DS_Store
 src/.obsidian/workspace.json
+
+# MkDocs Build-Output und Cache (werden in CI erzeugt, nicht versioniert)
+site/
+.cache/

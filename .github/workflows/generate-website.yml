@@ -1,34 +1,61 @@
 name: Website Generator (mkdocs)
 
-on: push
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'src/**'
+      - 'mkdocs.yml'
+      - 'requirements.txt'
+      - '.github/workflows/generate-website.yml'
+  workflow_dispatch:
+
+# Rechte fuer das Deployment in GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Nur ein gleichzeitiges Deployment, laufende Builds nicht abbrechen
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
-  convert_via_pandoc:
+  build:
     runs-on: ubuntu-latest
     steps:
-      # Repository auschecken, damit Workflow es nutzen kann
-      - uses: actions/checkout@v3
-      
-      # Delete Old Version
-      - run: rm -rf ./docs/*
+      - uses: actions/checkout@v4
 
-      # Create Web Version de (mkdocs)
-      - uses: actions/setup-python@v4
+      - uses: actions/setup-python@v5
         with:
-          python-version: 3.x
-      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
-      - uses: actions/cache@v3
+          python-version: '3.x'
+          cache: pip
+
+      # Cache fuer mkdocs-material (Social Cards, Build-Cache)
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
+      - uses: actions/cache@v4
         with:
           key: mkdocs-material-${{ env.cache_id }}
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material
-      - run: pip install mkdocs-rss-plugin
-      - run: pip install mkdocs-mermaid2-plugin
+
+      - run: pip install -r requirements.txt
+
       - run: mkdocs build -f ./mkdocs.yml
 
-      # Geänderte Datein zurück ins Repository committen
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: actions/upload-pages-artifact@v3
         with:
-          commit_message: Erzeugt von automatischer lernOS Produktionskette
+          path: ./site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

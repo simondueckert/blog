@@ -1,7 +1,7 @@
 site_name: Leben, Lernen und Arbeiten im 21. Jahrhundert
-site_url: https://simondueckert.github.io/blog
+site_url: https://blog.dueckert.eu
 docs_dir: src
-site_dir: docs
+site_dir: site
 edit_uri: ''
 
 nav:
@@ -29,7 +29,7 @@ repo_name: 'simondueckert/blog'
 repo_url: 'https://github.com/simondueckert/blog'
 
 extra:
-    homepage: https://simondueckert.github.io/blog
+    homepage: https://blog.dueckert.eu
     social:
         - icon: fontawesome/brands/mastodon
           link: 'https://colearn.social/@simondueckert'
@@ -64,5 +64,5 @@ markdown_extensions:
   - toc:
       toc_depth: 0
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
