@@ -19,11 +19,12 @@
     - ✅ Giscus (Kommentar-System)
     - Mermaid
 - Projekte unter Ressourcen aus Obsidian und Nextcloud ergänzen
-- Github Action einrichten, der die Webversion bei Checkin erzeugt
+- ✅ Github Action einrichten, der die Webversion bei Checkin erzeugt
 - Entscheidung Integration [Tweetbook](https://simondueckert.github.io/tweetbook/de) treffen
-- Seiten im Blog überarbeiten (Über mich, Projekte, Ressourcen, ...)
-- Alle Beiträge mit Tag "todo" bearbeiten
-- Testen, testen, testen
+- ✅ Seiten im Blog überarbeiten (Über mich, Projekte, Ressourcen, ...)
+- Alle Beiträge mit Tag "todo" bearbeiten (aktuell noch 4)
+- ✅ Testen, testen, testen
 - URL umschalten (CNAME?)
-- Wordpress-Blog deaktivieren
+- ✅ Wordpress-Blog deaktivieren
 - Wordpress-Blog löschen (werde ich den Hetzner-Vertrag los?)
+- Links prüfen mit Dr. Web oder ähnlichem Tool
