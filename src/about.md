@@ -8,8 +8,8 @@ Ich bin **Simon Dückert**, geboren am 20.04.1974 in [Schweinfurt](https://de.wi
 
 ## Kontakt
 
-- :material-email: Email: simon-at-dueckert.eu
-- :material-mastodon: Mastodon (Me [Working Out Loud](https://thebryceswrite.com/2010/11/29/when-will-we-work-out-loud-soon/)): [@simondueckert@mastodon.social](https://mastodon.social/@simondueckert)
+- :material-email: Email: <a href="mailto:simon@dueckert.eu" rel="me">simon@dueckert.eu</a>
+- :material-mastodon: Mastodon (Me [Working Out Loud](https://thebryceswrite.com/2010/11/29/when-will-we-work-out-loud-soon/)): <a rel="me" href="https://mastodon.social/@simondueckert">@simondueckert@mastodon.social</a>
 - :material-mastodon: Mastodon (CCC-Themen): [@sdueckert@chaos.social](https://chaos.social/@sdueckert)
 - :material-instagram: Pixelfed: [pixelfed.de/sdueckert](https://pixelfed.de/sdueckert) ([Portfolio Page](https://portfolio.pixelfed.de/sdueckert))
 - :material-matrix: Matrix: [simondueckert:matrix.org](https://matrix.to/#/@simondueckert:matrix.org)
