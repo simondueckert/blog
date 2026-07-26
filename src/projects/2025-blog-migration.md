@@ -14,17 +14,17 @@
 - ✅ Inhalte von [blog.dueckert.eu](https://blog.dueckert.eu) migrieren
 - ✅ Entscheidung Github-Kommentare treffen ([giscus](https://giscus.app/de)) -> ja
 - ✅ Bloggen von iPad und iPhone testen (Working Copy + iA Writer)
-- Entscheidung weitere Plugins treffen (Admonition, Mermaid etc.)
+- ✅ Entscheidung weitere Plugins treffen (Admonition, Mermaid etc.)
     - ✅ Admonition
     - ✅ Giscus (Kommentar-System)
-    - Mermaid
-- Projekte unter Ressourcen aus Obsidian und Nextcloud ergänzen
+    - ✅ Mermaid
 - ✅ Github Action einrichten, der die Webversion bei Checkin erzeugt
-- Entscheidung Integration [Tweetbook](https://simondueckert.github.io/tweetbook/de) treffen
+- ✅ Entscheidung Integration [Tweetbook](https://simondueckert.github.io/tweetbook/de) treffen
 - ✅ Seiten im Blog überarbeiten (Über mich, Projekte, Ressourcen, ...)
-- Alle Beiträge mit Tag "todo" bearbeiten (aktuell noch 4)
 - ✅ Testen, testen, testen
-- URL umschalten (CNAME?)
+- ✅ URL umschalten (blog.dueckert.eu > dueckert.eu, Redirect eingerichtet)
 - ✅ Wordpress-Blog deaktivieren
+- ✅ Alle Beiträge mit Tag "todo" bearbeiten (aktuell noch 4)
 - Wordpress-Blog löschen (werde ich den Hetzner-Vertrag los?)
-- Links prüfen mit Dr. Web oder ähnlichem Tool
+- Links prüfen mit [Dr. Link](https://www.drlinkcheck.com/) oder [ähnlichem Tool](https://validator.w3.org/checklink)
+- Projekte unter Ressourcen aus Obsidian und Nextcloud ergänzen

@@ -5,7 +5,6 @@ categories:
     - Cogneon
 tags:
     - wissensmanagement
-    - todo
 ---
 
 Am 2. Oktober 2019 habe ich bei der AIZ/GIZ Herbstakademie in Bonn einen Impuls und zwei 90-minütige Sessions zu "Wissen teilen in der Lernenden Organisation" gehalten. Wir haben uns mit Ansätzen der Lernenden Organisation wie dem [Double Loop Learning](https://hbr.org/1977/09/double-loop-learning-in-organizations) von Chris Agyris oder den [Fünf Disziplinen](http://infed.org/mobi/peter-senge-and-the-learning-organization/) von Peter Senge, insbesonderen aber der Definition nach David Garvin (s.a. [Is Yours a Learning Organization?](https://hbr.org/2008/03/is-yours-a-learning-organization)) beschäftigt:

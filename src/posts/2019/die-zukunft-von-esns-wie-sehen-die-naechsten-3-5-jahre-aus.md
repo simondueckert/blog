@@ -7,7 +7,6 @@ tags:
     - "esn"
     - "web20"
     - "enterprise20"
-    - todo
 ---
 
 Prognosen sind immer schwierig, insbesondere wenn sie die Zukunft betreffen. Beim Einsatz sozialer Netzwerke in Organisationen -auch [Enterprise Social Networks](https://en.wikipedia.org/wiki/Enterprise_social_networking) (ESN) genannt- zeichnen sich einige Trends ab, die ich in diesem Blog kurz besprechen möchte.

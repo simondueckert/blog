@@ -6,7 +6,6 @@ categories:
 tags:
   - "csap"
   - "notebook"
-  - todo
 ---
 
 Diese Woche ist mein neues Notebook, wieder ein Lenove X1 Carbon (7. Generation) angekommen. Das ist immer eine gute Chance, auch die Anwendungslandschaft zu bereinigen. In einem ersten Schritt stelle ich die Standard-Konfiguration aus dem [Cogneon Standard Arbeitsplatz](https://wiki.cogneon.de/csap) (#csap) her. Danach durchforste ich mal die Anwendungen, die sich auf meinem aktuellen Notebook gesammelt haben und entscheide, welche ich in Zukunft noch brauche:
