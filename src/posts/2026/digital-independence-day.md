@@ -4,7 +4,7 @@ categories:
    - Digitalität
 tags:
    - digitalindependenceday
-   - didit
+   - diday
    - opensource
 draft: false
 ---
