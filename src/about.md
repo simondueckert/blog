@@ -1,10 +1,16 @@
-# 🙋Über mich
+# Über mich
 
 ![](img/simon-dueckert-illustration.jpg)
 
+<<<<<<< Updated upstream
 Ich bin **Simon Dückert**, geboren am 20.04.1974 in [Schweinfurt](https://de.wikipedia.org/wiki/Schweinfurt). Ich bin dort ins [Walther-Rathenau Gymnasium](https://www.walther-rathenau-sw.de/) gegangen und habe dann Elektrotechnik an der [Friedrich-Alexander Universität Erlangen-Nürnberg](https://www.fau.de/) Elektrotechnik mit Schwerpunkt Digitale Nachrichtentechnik studiert.
 
 2001 habe ich zusammen mit Michael Müller, Marc Holfelder und Herbert Stoyan die [Cogneon GmbH](https://cogneon.de/) ([Karte](https://www.openstreetmap.org/node/3255611047)) in [Nürnberg](https://de.wikipedia.org/wiki/N%C3%BCrnberg) gegründet. Dort bin ich bis heute in Anlehnung and die [Akademie von Platon](https://de.wikipedia.org/wiki/Platonische_Akademie) als [Scholarch](https://de.wikipedia.org/wiki/Scholarch). Dort habe ich mich auf [Wissensmanagement](https://de.wikipedia.org/wiki/Wissensmanagement) und die Entwicklung [Lernender Organisationen](https://de.wikipedia.org/wiki/Lernende_Organisation) spezialisiert, weil ich das für unser aller Wohlergehen beim Übergang von [Industriegesellschaft](https://de.wikipedia.org/wiki/Industriegesellschaft) (20. Jahrhundert) in [Wissensgesellschaft](https://de.wikipedia.org/wiki/Wissensgesellschaft) (21. Jahrhundert) als eines der wichtigsten Themen sehe.
+=======
+Ich bin **Simon Dückert**, geboren am 20.04.1974 in [Schweinfurt](https://de.wikipedia.org/wiki/Schweinfurt). Ich bin dort ins [Walther-Rathenau Gymnasium](https://www.walther-rathenau-sw.de/) gegangen und habe dann Elektrotechnik (Schwerpunkt: Digitale Nachrichtentechnik) an der [Friedrich-Alexander Universität Erlangen-Nürnberg](https://www.fau.de/) Elektrotechnik mit Schwerpunkt Digitale Nachrichtentechnik studiert. 2001 habe ich zusammen mit [Michael Müller](https://www.linkedin.com/in/prof-dr-michael-w-m-m%C3%BCller-9004b3264/), [Marc Holfelder](https://www.linkedin.com/in/marc-h-b58136a/) und [Herbert Stoyan](https://de.wikipedia.org/wiki/Herbert_Stoyan) die [Cogneon GmbH](https://cogneon.de/) gegründet. Dort bin ich bis heute in Anlehnung and die [Akademie von Platon](https://de.wikipedia.org/wiki/Platonische_Akademie) als [Scholarch](https://de.wikipedia.org/wiki/Scholarch) tätig. Ich wohne mit Familie und Katze in [Nürnberg](https://de.wikipedia.org/wiki/N%C3%BCrnberg), Franken, Deutschland, Europa.
+
+**Pronomen:** he/him 🏳️‍🌈
+>>>>>>> Stashed changes
 
 ## Kontakt
 
