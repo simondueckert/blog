@@ -13,6 +13,8 @@ draft: false
 
 Heute ist wieder [Digital Independence Day](https://di.day). Dieses Mal möchte ich darüber schreiben, wie man **statt Microsoft 365 **auch mit **Open Source Infrastruktur wie Nextcloud** arbeiten kann. Das geht im Privaten sogar noch einfacher, als geschäftlich. Bei [Cogneon](https://cogneon.de) habe ich letztes Jahr ein Projekt mit dem Namen **"Killswitch 365"** gestartet, mit dem Ziel, über Nacht von Microsoft 365 weggehen zu können und trotzdem arbeitsfähig zu bleiben.
 
+![](images/screenshot-nextcloud-dateien.png)
+
 <!-- more -->
 
 Wir sind dort schon früh mit [Owncloud](https://owncloud.com/) gestartet und dann auf [Nextcloud](https://nextcloud.com/) gewechselt (beides selbst gehostet). Ursprünglich war der Hauptanwendungsfall, der Dateiserver hinter [unserem Mediawiki](https://wiki.cogneon.de) zu sein. Doch die Anwendungsfälle haben sich im Lauf der Zeit erweitert (z.B. Download-Bereich für Kunden, elektronische Bibliothek) und Nextcloud wurde Teil unserer "geschäftskritischen Infrastruktur" und wir haben das **Hosting an Hetzner ausgelagert** (Produkt: [StorageShare](https://www.hetzner.com/de/storage/storage-share/), nutze ich privat auch).
@@ -27,6 +29,7 @@ Im Rahmen des Killswitch-Projekts achte ich darauf, dass wir keine M365-Dienste 
 | **Kalender**             | Outlook       | [Kalender](https://apps.nextcloud.com/apps/calendar)         | Synchronisiert per CalDAV bei mir mit [Thunderbird](https://www.thunderbird.net) und iOS Mail App                                                                                         |
 | **Notizbuch**            | Onenote       | [Dateien](https://nextcloud.com/files/)                      | Ich nutze einen Obsidian-Vault in meinen Dateien (Nachteil: synchronisiert nicht mit iOS)                                                                                                 |
 | **Aufgabenmanagement**   | ToDo          | [Tasks](https://apps.nextcloud.com/apps/tasks)               | Aufgaben werden auch im Kalender gespeichert, ich greife z.B. von Thunderbird und iOS Erinnerungen darauf zu                                                                              |
+| **Projektmanagement**    | Planner       | [Deck](https://apps.nextcloud.com/apps/deck)                 | Nutze ich wenig, weil mir meist Aufgabenlisten reichen                                                                                                                                    |
 | **Formulare, Umfragen**  | Forms         | [Forms](https://apps.nextcloud.com/apps/forms)               | Tut, was es soll, die Live-Präsentation und die Anzeige von QR-Codes wäre noch schön                                                                                                      |
 | **Automatisierung**      | PowerAutomate | [Flow](https://nextcloud.com/de/flow/)                       | Nutze ich bisher noch nicht, steht aber auf meiner Liste                                                                                                                                  |
 | **Chat, Videokonferenz** | Teams         | [Talk](https://nextcloud.com/de/Talk/)                       | Nutze ich im privaten Umfeld wenig, weil Chatgruppen meist iOS oder Signal sind; Videokonferenzen mit 1-2 handvoll Leuten geht gut                                                        |
