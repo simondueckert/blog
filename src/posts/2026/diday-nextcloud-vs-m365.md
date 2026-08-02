@@ -9,7 +9,7 @@ tags:
 draft: false
 ---
 
-# Nextcloud statt Micorosoft 365
+# Nextcloud statt Microsoft 365
 
 Heute ist wieder [Digital Independence Day](https://di.day). Dieses Mal möchte ich darüber schreiben, wie man **statt Microsoft 365 **auch mit **Open Source Infrastruktur wie Nextcloud** arbeiten kann. Das geht im Privaten sogar noch einfacher, als geschäftlich. Bei [Cogneon](https://cogneon.de) habe ich letztes Jahr ein Projekt mit dem Namen **"Killswitch 365"** gestartet, mit dem Ziel, über Nacht von Microsoft 365 weggehen zu können und trotzdem arbeitsfähig zu bleiben.
 
