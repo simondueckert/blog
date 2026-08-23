@@ -1,10 +1,16 @@
 ---
-date: 2026-06-21
+date: 2026-12-31
 categories:
+   - draft
+tags:
    - draft
 draft: true
 ---
 
 # Heading
+
+... Teaser ...
+
+<!-- more -->
 
 ... Content ...
