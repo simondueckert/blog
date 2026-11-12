@@ -8,7 +8,11 @@ on:
       - 'src/**'
       - 'mkdocs.yml'
       - 'requirements.txt'
+      - 'hooks/**'
       - '.github/workflows/generate-website.yml'
+  # Bei Pull Requests immer bauen (kein paths-Filter), damit der Required
+  # Status Check "build" auch fuer reine Doku-PRs ein Ergebnis liefert.
+  pull_request:
   workflow_dispatch:
 
 # Rechte fuer das Deployment in GitHub Pages
@@ -46,12 +50,15 @@ jobs:
 
       - run: mkdocs build -f ./mkdocs.yml
 
+      # Artifact nur fuer den Deploy benoetigen, bei PRs nicht
       - uses: actions/upload-pages-artifact@v3
+        if: github.event_name != 'pull_request'
         with:
           path: ./site
 
   deploy:
     needs: build
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
