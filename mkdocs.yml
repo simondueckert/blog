@@ -1,8 +1,13 @@
 site_name: Leben, Lernen und Arbeiten im 21. Jahrhundert
+site_description: Privater Weblog von Simon Dückert über Lernen, Arbeiten und Leben im 21. Jahrhundert – Digitalität, Rezepte, Reisen und lernOS.
 site_url: https://dueckert.eu/
 docs_dir: src
 site_dir: site
 edit_uri: ''
+
+# Beitragsvorlagen fuer Obsidian: im Vault sichtbar, aber keine Seite im Blog
+exclude_docs: |
+  templates/
 
 nav:
     - 👋 Hallo Welt: index.md
@@ -34,7 +39,6 @@ repo_name: 'simondueckert/blog'
 repo_url: 'https://github.com/simondueckert/blog'
 
 extra:
-    homepage: https://blog.dueckert.eu
     social:
         - icon: fontawesome/brands/mastodon
           link: 'https://colearn.social/@simondueckert'
@@ -49,6 +53,7 @@ copyright: Simon Dückert, Creative Commons Attribution 4.0 International (CC BY
 
 hooks:
   - hooks/zotero_publications.py
+  - hooks/llms_txt.py
 
 plugins:
   - search

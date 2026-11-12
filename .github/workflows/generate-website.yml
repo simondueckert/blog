@@ -8,7 +8,11 @@ on:
       - 'src/**'
       - 'mkdocs.yml'
       - 'requirements.txt'
+      - 'hooks/**'
       - '.github/workflows/generate-website.yml'
+  # Bei Pull Requests immer bauen (kein paths-Filter), damit der Required
+  # Status Check "build" auch fuer reine Doku-PRs ein Ergebnis liefert.
+  pull_request:
   workflow_dispatch:
 
 # Rechte fuer das Deployment in GitHub Pages
@@ -17,10 +21,12 @@ permissions:
   pages: write
   id-token: write
 
-# Nur ein gleichzeitiges Deployment, laufende Builds nicht abbrechen
+# Deploys auf main serialisieren, PR-Builds pro Branch trennen.
+# Sonst wuerde GitHub wartende Laeufe derselben Gruppe verwerfen und
+# parallele PRs bekaemen keinen Status-Check.
 concurrency:
-  group: pages
-  cancel-in-progress: false
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
 jobs:
   build:
@@ -46,12 +52,15 @@ jobs:
 
       - run: mkdocs build -f ./mkdocs.yml
 
+      # Artifact nur fuer den Deploy benoetigen, bei PRs nicht
       - uses: actions/upload-pages-artifact@v3
+        if: github.event_name != 'pull_request'
         with:
           path: ./site
 
   deploy:
     needs: build
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
