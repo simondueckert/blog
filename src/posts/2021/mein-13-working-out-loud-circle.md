@@ -1,6 +1,7 @@
 ---
 title: "Mein 13. Working Out Loud Circle"
 date: 2021-01-03
+slug: mein-13-working-out-loud-circle
 categories: 
   - Digitalität
 tags:

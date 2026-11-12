@@ -1,6 +1,7 @@
 ---
 title: "Solid by Tim Berners-Lee"
 date: 2019-09-21
+slug: solid-by-tim-berners-lee
 categories: 
   - Digitalität
 tags:

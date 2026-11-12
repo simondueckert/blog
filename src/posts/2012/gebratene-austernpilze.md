@@ -1,6 +1,7 @@
 ---
 title: "Gebratene Austernpilze"
 date: 2012-11-03
+slug: gebratene-austernpilze
 categories: 
   - Rezepte
 tags:

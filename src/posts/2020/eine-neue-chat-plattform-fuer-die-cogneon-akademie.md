@@ -1,6 +1,7 @@
 ---
 title: "Eine neue Chat-Plattform für die Cogneon Akademie"
 date: 2020-12-20
+slug: eine-neue-chat-plattform-für-die-cogneon-akademie
 categories: 
   - Cogneon
 tags:

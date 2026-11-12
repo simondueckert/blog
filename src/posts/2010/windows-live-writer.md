@@ -1,6 +1,7 @@
 ---
 title: "Windows Live Writer"
 date: 2010-10-20
+slug: windows-live-writer
 categories:
     - Digitalität
 tags:

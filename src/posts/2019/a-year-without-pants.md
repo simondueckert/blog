@@ -1,6 +1,7 @@
 ---
 title: "A Year Without Pants"
 date: 2019-09-21
+slug: a-year-without-pants
 categories: 
   - Literatur
 tags:

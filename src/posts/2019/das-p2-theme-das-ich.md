@@ -1,6 +1,7 @@
 ---
 title: "Wordpress P2 Theme"
 date: 2019-09-21
+slug: wordpress-p2-theme
 categories: 
   - Digitalität
 tags:

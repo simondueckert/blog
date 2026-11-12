@@ -1,6 +1,7 @@
 ---
 title: "Das Fairphone 3+ als Alternative zum iPhone"
 date: 2022-09-26
+slug: das-fairphone-3-als-alternative-zum-iphone
 categories: 
   - Digitalität
 tags:

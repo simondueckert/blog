@@ -1,5 +1,6 @@
 ---
 date: 2025-11-29
+slug: neues-projekt-smarthome-mit-ki-und-sprache-nutzen
 categories:
   - Digitalität
 tags:

@@ -1,5 +1,6 @@
 ---
 date: 2026-07-19
+slug: mobiles-publizieren-im-blog
 categories:
    - Digitalität
 tags:

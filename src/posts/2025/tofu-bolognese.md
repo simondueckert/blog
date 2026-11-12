@@ -1,5 +1,6 @@
 ---
 date: 2025-08-30
+slug: tofu-bolognese
 categories:
    - Rezepte
 tags:

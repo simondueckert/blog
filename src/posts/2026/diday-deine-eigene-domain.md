@@ -1,5 +1,6 @@
 ---
 date: 2026-07-05
+slug: deine-eigene-domain---ein-beitrag-zum-digitalindependenceday
 categories:
     - Digitalität
 tags:

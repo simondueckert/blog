@@ -1,6 +1,7 @@
 ---
 title: "Zwiebelsuppe"
 date: 2025-01-01
+slug: zwiebelsuppe
 categories:
   - Rezepte
 tags:

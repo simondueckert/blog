@@ -1,5 +1,6 @@
 ---
 date: 2025-10-13
+slug: led-lightning-talk-lampe-mit-vibe-coding
 categories:
    - Digitalität
 tags:

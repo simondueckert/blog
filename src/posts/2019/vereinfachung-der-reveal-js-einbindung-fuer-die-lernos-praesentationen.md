@@ -1,6 +1,7 @@
 ---
 title: "Vereinfachung der reveal.js Einbindung für die lernOS Präsentationen"
 date: 2019-09-22
+slug: vereinfachung-der-revealjs-einbindung-für-die-lernos-präsentationen
 categories: 
   - lernOS
 tags:

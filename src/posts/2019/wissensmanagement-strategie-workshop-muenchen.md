@@ -1,6 +1,7 @@
 ---
 title: "Wissensmanagement Strategie Workshop in München"
 date: 2019-09-25
+slug: wissensmanagement-strategie-workshop-in-münchen
 categories: 
   - Cogneon
 tags:

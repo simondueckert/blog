@@ -1,6 +1,7 @@
 ---
 title: "Steinpilz-Risotto"
 date: 2012-10-19
+slug: steinpilz-risotto
 categories: 
   - Rezepte
 tags:

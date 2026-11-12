@@ -1,6 +1,7 @@
 ---
 title: "AIZ/GIZ Herbstakademie 2019"
 date: 2019-10-03
+slug: aizgiz-herbstakademie-2019
 categories:
     - Cogneon
 tags:

@@ -1,6 +1,7 @@
 ---
 title: "Reiseführer mit der Wikipedia-Buchfunktion"
 date: 2016-02-06
+slug: reiseführer-mit-der-wikipedia-buchfunktion
 categories: 
   - Reisen
 tags:

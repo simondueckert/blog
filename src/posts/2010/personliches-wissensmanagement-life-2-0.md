@@ -1,6 +1,7 @@
 ---
 title: "Persönliches Wissensmanagement - Life 2.0"
 date: 2010-09-18
+slug: persönliches-wissensmanagement---life-20
 categories: 
   - Persönliches Wissensmanagement
 tags:

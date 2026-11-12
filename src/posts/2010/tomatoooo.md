@@ -1,6 +1,7 @@
 ---
 title: "Tomatoooo"
 date: 2010-08-29
+slug: tomatoooo
 categories: 
   - Rezepte
 tags:

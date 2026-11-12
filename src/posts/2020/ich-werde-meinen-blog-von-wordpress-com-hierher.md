@@ -1,6 +1,7 @@
 ---
 title: "Blog Migration 2020"
 date: 2020-11-29
+slug: blog-migration-2020
 categories: 
   - Digitalität
 tags:

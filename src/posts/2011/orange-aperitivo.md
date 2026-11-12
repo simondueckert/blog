@@ -1,6 +1,7 @@
 ---
 title: "Orange Aperitivo"
 date: 2011-08-07
+slug: orange-aperitivo
 categories: 
   - Rezepte
 tags:
