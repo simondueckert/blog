@@ -23,3 +23,4 @@ Meine Favoriten von der [Speisekarte](https://www.thaifood1.de/speisekarte/) sin
 
 ## Rezepte
 - [Panaeg Neua](https://kratai.de/2025/12/02/panang-curry-mit-rind-cremig-nussig-kaffir-duftend-authentisches-thai-rezept-fur-zuhause/) (Nationalgericht)
+- [Panang Curry](panang-curry.md) (meine gekürzte Version zum Nachkochen)
