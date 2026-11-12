@@ -1,5 +1,6 @@
 ---
 date: 2025-09-21
+slug: urlaub-in-varigotti-ligurien-italien
 categories:
    - Reisen
 tags:

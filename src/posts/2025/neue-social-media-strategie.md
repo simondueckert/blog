@@ -1,5 +1,6 @@
 ---
 date: 2025-10-11
+slug: neue-social-media-strategie
 categories:
    - Digitalität
 tags:

@@ -1,5 +1,6 @@
 ---
 date: 2026-10-17
+slug: shin-ramyun-tuning
 categories:
    - Rezepte
 tags:

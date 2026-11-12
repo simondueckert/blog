@@ -1,5 +1,6 @@
 ---
 date: 2026-08-02
+slug: nextcloud-statt-microsoft-365
 categories:
     - Digitalität
 tags:

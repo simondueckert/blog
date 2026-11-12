@@ -1,6 +1,7 @@
 ---
 title: "Podcast-Test"
 date: 2012-01-29
+slug: podcast-test
 tags:
     - "podcast"
     - "infrastruktur"

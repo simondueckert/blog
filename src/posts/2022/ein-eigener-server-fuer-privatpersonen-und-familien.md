@@ -1,6 +1,7 @@
 ---
 title: "Ein eigener Server für Privatpersonen und Familien"
 date: 2022-09-16
+slug: ein-eigener-server-für-privatpersonen-und-familien
 categories: 
   - Digitalität
 tags:

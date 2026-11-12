@@ -1,5 +1,6 @@
 ---
 date: 2025-11-08
+slug: spaghetti-bolognese-revisited
 categories:
    - Rezepte‚
 tags:

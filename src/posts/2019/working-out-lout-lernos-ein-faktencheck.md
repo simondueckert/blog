@@ -1,6 +1,7 @@
 ---
 title: "Working Out Loud? LernOS? Ein Faktencheck"
 date: 2019-10-27
+slug: working-out-loud-lernos-ein-faktencheck
 categories: 
   - lernOS
 tags:

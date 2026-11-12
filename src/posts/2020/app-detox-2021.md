@@ -1,6 +1,7 @@
 ---
 title: "App Detox 2021"
 date: 2020-12-23
+slug: app-detox-2021
 categories: 
   - Digitalität
 tags:

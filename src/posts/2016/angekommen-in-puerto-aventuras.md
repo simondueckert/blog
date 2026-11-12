@@ -1,6 +1,7 @@
 ---
 title: "Angekommen in Puerto Aventuras"
 date: 2016-02-09
+slug: angekommen-in-puerto-aventuras
 categories: 
   - Reisen
 tags:

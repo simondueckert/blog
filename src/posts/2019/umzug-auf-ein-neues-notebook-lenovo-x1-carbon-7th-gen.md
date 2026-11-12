@@ -1,6 +1,7 @@
 ---
 title: "Umzug auf ein neues Notebook (Lenovo X1 Carbon 7th Gen)"
 date: 2019-09-27
+slug: umzug-auf-ein-neues-notebook-lenovo-x1-carbon-7th-gen
 categories: 
   - Digitalität
 tags:

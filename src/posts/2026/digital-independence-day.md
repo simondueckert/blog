@@ -1,5 +1,6 @@
 ---
 date: 2026-01-03
+slug: 1-digital-independence-day-am-4-januar-2026
 categories:
    - Digitalität
 tags:

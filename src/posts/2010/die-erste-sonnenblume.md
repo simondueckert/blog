@@ -1,6 +1,7 @@
 ---
 title: "Die erste Sonnenblume"
 date: 2010-07-29
+slug: die-erste-sonnenblume
 tags: 
   - "mastermind"
   - "sonnenblume"

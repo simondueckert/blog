@@ -1,6 +1,7 @@
 ---
 title: "Neue Muße"
 date: 2010-08-29
+slug: neue-muße
 categories:
   - Persönliches
 tags:

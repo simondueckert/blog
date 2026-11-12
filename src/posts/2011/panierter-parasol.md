@@ -1,6 +1,7 @@
 ---
 title: "Panierter Parasol"
 date: 2011-01-25
+slug: panierter-parasol
 categories: 
   - Rezepte
 tags:

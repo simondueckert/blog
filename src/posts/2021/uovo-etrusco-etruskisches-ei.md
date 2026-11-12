@@ -1,6 +1,7 @@
 ---
 title: "Uovo Etrusco (Etruskisches Ei)"
 date: 2021-08-25
+slug: uovo-etrusco-etruskisches-ei
 categories: 
   - Rezepte
 tags:

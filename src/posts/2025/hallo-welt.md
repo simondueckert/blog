@@ -1,6 +1,7 @@
 ---
 title: "Hallo MkDocs Welt!"
 date: 2025-06-22
+slug: hallo-mkdocs-welt
 tags:
   - weblog
   - mkdocs

@@ -1,6 +1,7 @@
 ---
 title: "Meine Themen 2025"
 date: 2025-01-05
+slug: meine-themen-2025
 categories:
   - Ziele
 tags:

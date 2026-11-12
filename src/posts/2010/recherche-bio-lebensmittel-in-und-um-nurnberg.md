@@ -1,6 +1,7 @@
 ---
 title: "Recherche Bio-Lebensmittel in und um Nürnberg"
 date: 2010-12-27
+slug: recherche-bio-lebensmittel-in-und-um-nürnberg
 tags: 
   - "bio"
   - "lebensmittel"

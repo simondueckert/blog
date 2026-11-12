@@ -1,5 +1,6 @@
 ---
 date: 2025-08-10
+slug: flexible-ki-mit-niedrigem-preis
 categories:
    - Digitalität
 tags:

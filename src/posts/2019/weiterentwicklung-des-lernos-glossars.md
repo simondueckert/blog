@@ -1,6 +1,7 @@
 ---
 title: "Weiterentwicklung des #lernOS Glossars"
 date: 2019-10-15
+slug: weiterentwicklung-des-lernos-glossars
 categories:
     - lernOS
 ---

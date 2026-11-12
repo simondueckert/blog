@@ -1,6 +1,7 @@
 ---
 title: "Erster Eintrag in meinem privaten Blog"
 date: 2010-07-28
+slug: erster-eintrag-in-meinem-privaten-blog
 categories:
     - Digitalität
 tags:

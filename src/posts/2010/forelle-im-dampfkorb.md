@@ -1,6 +1,7 @@
 ---
 title: "Forelle im Dämpfkorb"
 date: 2010-09-05
+slug: forelle-im-dämpfkorb
 categories: 
   - Rezepte
 tags:

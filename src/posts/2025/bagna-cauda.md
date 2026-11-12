@@ -1,5 +1,6 @@
 ---
 date: 2025-11-22
+slug: bagna-cauda-aus-dem-piemont
 categories:
    - Rezepte
 tags:

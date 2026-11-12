@@ -1,6 +1,7 @@
 ---
 title: "Penne Arrabiata"
 date: 2020-12-05
+slug: penne-arrabiata
 categories: 
   - Rezepte
 tags:

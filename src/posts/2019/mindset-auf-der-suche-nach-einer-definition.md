@@ -1,6 +1,7 @@
 ---
 title: "Mindset - auf der Suche nach einer Definition"
 date: 2019-11-03
+slug: mindset---auf-der-suche-nach-einer-definition
 categories: 
   - lernOS
 tags:

@@ -1,6 +1,7 @@
 ---
 title: "Weblog als E-Portfolio"
 date: 2010-11-14
+slug: weblog-als-e-portfolio
 categories: 
   - Digitalität
 tags:
