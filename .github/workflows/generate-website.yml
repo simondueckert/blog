@@ -21,10 +21,12 @@ permissions:
   pages: write
   id-token: write
 
-# Nur ein gleichzeitiges Deployment, laufende Builds nicht abbrechen
+# Deploys auf main serialisieren, PR-Builds pro Branch trennen.
+# Sonst wuerde GitHub wartende Laeufe derselben Gruppe verwerfen und
+# parallele PRs bekaemen keinen Status-Check.
 concurrency:
-  group: pages
-  cancel-in-progress: false
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
 jobs:
   build:
